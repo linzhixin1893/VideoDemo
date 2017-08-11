@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="picture_mode">
+        <item>hell</item>
+        <item>Standard</item>
+        <item>weich</item>
+        <item>@string/nature</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>Standard</item>
+        <item>Musik</item>
+        <item>Kino</item>
+        <item>Nachrichten</item>
+        <item>Outdoor</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>aus</item>
+        <item>medium</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>Originalverhältnis</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>mit Untertitel</item>
+        <item>schwarze Kante löschen</item>
+        <item>Punkt zu Punkt</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>aus</item>
+        <item>automatisch</item>
+        <item>oben und unten</item>
+        <item>links und rechts</item>
+        <item>Blaulicht</item>
+        <item>3D zu 2D(oben und unten)</item>
+        <item>3D zu 2D(links und rechts)</item>
+        <item>2D zu 3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>autom.umlaufen</item>
+        <item>Einzellied wiederholen</item>
+    </string-array>
+	
+	<string-array name="custom_clortemp_values">
+        <item>kalt</item>
+	    <item>standard</item>
+	    <item>warm</item>
+	    <item>Benutzer</item>
+    </string-array>
+</resources>

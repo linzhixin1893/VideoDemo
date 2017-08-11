@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:id="@+id/firstvideoview"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             >
+
+    <SurfaceView
+            android:id="@+id/videoPlayerImageSurfaceViewOne"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent">
+    </SurfaceView>
+
+
+    <com.xgimi.gimiplayer.views.VideoPlayView
+            android:id="@+id/videoviewone"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"/>
+
+    <com.xgimi.gimiplayer.views.BorderTextViews
+            android:id="@+id/video_player_text_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:gravity="center"
+            android:padding="3dip"
+            android:paddingLeft="2dip"
+            android:paddingRight="2dip"
+            tools:text="@string/test_str"
+            android:textColor="@android:color/white"
+            android:textSize="35sp"/>
+
+</FrameLayout> 
+

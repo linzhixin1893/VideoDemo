@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/playControlLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_test_bar"
+            android:orientation="vertical">
+
+            <com.xgimi.gimiplayer.views.NumberSeekBar
+                android:id="@+id/progress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="40dp"
+                android:focusable="true"
+                android:indeterminate="false"
+                android:maxHeight="4dip"
+                android:minHeight="4dip"
+                android:progressDrawable="@drawable/seek_layer_list"
+                android:thumb="@drawable/green_thumb"
+                android:thumbOffset="0dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/play_left_right_margin"
+                android:layout_marginRight="@dimen/play_left_right_margin"
+                android:layout_marginTop="@dimen/play_general_margin"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/control_timer_current"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="left"
+                    android:text="@string/default_time"
+                    android:textColor="#80ffffff"
+                    android:textSize="@dimen/play_time_size" />
+
+                <TextView
+                    android:id="@+id/control_prompt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/control_prompt"
+                    android:textColor="#80ffffff"
+                    android:textSize="@dimen/play_time_size" />
+
+                <TextView
+                    android:id="@+id/control_timer_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:gravity="right"
+                    android:text="@string/defaut_time1"
+                    android:textColor="@color/play_text_color"
+                    android:textSize="@dimen/play_time_size" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/play_left_right_margin"
+                android:layout_marginRight="@dimen/play_left_right_margin"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/recordPromote_tv"
+                    style="@style/setting_text_style"
+                    android:layout_marginLeft="@dimen/play_left_right_margin"
+                    android:layout_marginRight="@dimen/play_left_right_margin"
+                    android:textSize="20sp"
+                    android:visibility="gone" />
+                <!--android:text="@string/play_list"-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <!--<HorizontalScrollView android:layout_width="wrap_content"
+                                          android:scrollbars="none"
+                                          android:layout_marginLeft="6dp"
+                                          android:layout_marginRight="@dimen/play_left_right_margin"
+                                          android:layout_marginTop="16dp"
+                                          android:layout_marginBottom="20dp"
+                                          android:layout_below="@+id/recordPromote_tv"
+                                          android:layout_height="wrap_content">
+-->
+
+                    <!-- <LinearLayout
+                             android:id="@+id/play_list"
+                             android:orientation="horizontal"
+                             android:visibility="gone"
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content">
+
+
+                     </LinearLayout>-->
+                    <GridView
+                        android:id="@+id/play_list"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:drawSelectorOnTop="true"
+                        android:gravity="center"
+                        android:horizontalSpacing="102dp"
+                        android:listSelector="@drawable/grid_selector_small_edge"
+                        android:nextFocusDown="@+id/play_list"
+                        android:numColumns="6"
+                        android:scrollbars="none"
+                        android:verticalSpacing="30dp"
+                        android:visibility="visible">
+
+
+                    </GridView>
+                    <!--
+                    </HorizontalScrollView>-->
+                    <Button
+                        android:id="@+id/other_use_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="1px"
+                        android:background="@drawable/trans"
+                        android:text="@string/add" />
+                </LinearLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

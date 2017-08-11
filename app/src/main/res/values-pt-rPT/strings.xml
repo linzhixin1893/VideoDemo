@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_media_error_unknown">Erro desconhecido</string>
+    <string name="video_media_error_malformed">Outro erro anormal</string>
+    <string name="video_media_error_io">Erro de leitura e escrito de IO</string>
+    <string name="video_media_error_unsupported">Erro de compatibilidade de sistema</string>
+    <string name="video_media_error_format_unsupport">Formato não é compatível</string>
+    <string name="video_media_error_not_connected">Erro de conexão de dados</string>
+    <string name="video_media_error_audio_unsupport">Formato de áudio não é compatível</string>
+    <string name="video_media_error_video_unsupport">Formato de vídeo não é compatível</string>
+    <string name="video_media_error_no_license">Os dados de reprodução não têm autorização</string>
+    <string name="video_media_error_license_expired">Autorização expirada</string>
+    <string name="video_media_other_error_unknown">Outro erro desconhecido</string>
+    <string name="video_media_error_not_valid">Não é uma sequência válida de vídeo sucessivo</string>
+    <string name="video_media_error_server_died">O serviço de Media player parou</string>
+    <string name="video_media_infor_no_index">O arquivo de vídeo não tem índice, e não localiza a posição de inicial ou
+        retrocesso
+    </string>
+    <string name="video_media_infor_no_index_ab">O arquivo de vídeo não tem índice, e não pode configurar a reprodução
+        repetida de AB
+    </string>
+    <string name="video_media_do_forward_info">Não pressione o avanço rápido com demasiada frequência, e o intervalo deve ser
+        superior a 600 ms
+    </string>
+    <string name="subtitle_type">Exibir categoria de legenda</string>
+    <string name="subtitle_out_path">Acesso da legenda de conexão exterior</string>
+    <string name="subtitle_in_no">Número a legenda de conexão interior</string>
+    <string name="subtitle_language">Idioma de legenda</string>
+    <string name="subtitle_color">Cor de legenda de texto</string>
+    <string name="subtitle_font">Fonte de legenda de texto</string>
+    <string name="subtitle_font_size">Tamanho de legenda de texto</string>
+    <string name="subtitle_frame">Sombra de legenda de texto</string>
+    <string name="subtitle_area">Posição de legenda de texto</string>
+    <string name="subtitle_adjust">Ajusta o eixo horário de legenda</string>
+    <string name="subtitleList">Lista de legenda</string>
+    <string name="playList">Lista de reprodução</string>
+    <string name="subtitle_setting">Configurações de legenda</string>
+    <string name="a_b_section_repeat">Repetição de seção de A-B</string>
+    <string name="section_replay">Reprodução de repetição de seção</string>
+    <string name="set_begin_a">Defina o ponto de partida A</string>
+    <string name="set_begin_b">Defina o ponto de partida B</string>
+    <string name="audio_track_count">Quantidade de trilha sonora</string>
+    <string name="audio_track_number">Configurar No. de trilha sonora</string>
+    <string name="audio_track_duration">Tempo total de trilha sonora</string>
+    <string name="audio_track_language">Idioma de trilha sonora</string>
+    <string name="audio_track_setting">Configurações de trilha sonora</string>
+    <string name="point_a">Posição de ponto A</string>
+    <string name="point_b">Posição de ponto B</string>
+    <string name="one_times_speed">1 vez de velocidade</string>
+    <string name="x_times_speed">Velocidade</string>
+    <string name="playing_settings">Configurações de reprodução</string>
+    <string name="open_ab_repeat">Uso de reprodução de AB deve ativar esta função no primeiro</string>
+    <string name="set_point_a_first">Antes de configurar a posição de ponto B tem que configurar a posição de ponto A no
+        primeiro
+    </string>
+    <string name="video_three_d_setting">Configurações de 3D</string>
+    <string name="video_3D_none">Fechar</string>
+    <string name="video_3D_side_by_side">Esquerda e direita</string>
+    <string name="video_3D_top_bottom">Para cima e para baixo</string>
+    <string name="video_3D_frame_packing">Definição alta dupla</string>
+    <string name="video_3D_line_alternative">Intercalação</string>
+    <string name="video_3D_2dto3d">2Daltera para3D</string>
+    <string name="video_3D_auto">Automático</string>
+    <string name="video_3D_check_board">Grade de tabuleiro de xadrez</string>
+    <string name="video_3D_pixel_alternative">Cruzamento de coluna</string>
+    <string name="video_3D_frame_alternative">Substituição de quadro</string>
+    <string name="video_3D_count">COUNT</string>
+    <string name="video_3D_switch_info">Por favor, não comute o interruptor de 3D muito frequentemente</string>
+    <string name="aspect_ratio_16X9">Resolução 16:9</string>
+    <string name="aspect_ratio_4X3">Resolução 4:3</string>
+    <string name="aspect_ratio_default">É do padrão para a resolução automática</string>
+    <string name="can_not_open_dual">No modo de 3D, não pode abrir a solução dupla</string>
+    <string name="can_not_open_3D">No modo de solução dupla, não pode abrir 3D</string>
+    <string name="video_start_time">Horário de iniciação de reprodução de vídeo</string>
+    <string name="video_buffer_time">Tempo de buffer :</string>
+    <string name="video_first_video_frame_time">O tempo de ocorrência do primeiro quadro :</string>
+    <string name="video_breakpoint_play">Quer seguir a reprodução de última vez？</string>
+    <string name="video_breakpoint">Reprodução de ponto de interrupção</string>
+    <string name="can_not_open_dual_pip">No modo de PIP/POP/DUALVIEW, não pode abrir a solução dupla</string>
+    <string name="can_not_open_dual_4kVideo">No modo de 4k1k/4k2k, não pode abrir a solução dupla</string>
+
+    <string name="app_name">Jogador local v2.0</string>
+    <string name="test_str">cao ni ma de dan</string>
+    <string name="default_time">00:00:00</string>
+    <string name="iso_file_cant_play">O arquivo ISO não pode ser reproduzido</string>
+    <string name="setting_three_d">Configurações 3D</string>
+    <string name="setting">Configurações</string>
+    <string name="exit_ok">Confirmar</string>
+    <string name="exit_cancel">Cancelar</string>
+    <string name="choose_time_failed">O vídeo não pode localizar precisamente!!</string>
+    <string name="setting_subtitle">Subtítulo</string>
+    <string name="setting_picture_mode">Modo de imagem</string>
+    <string name="setting_voice">Som</string>
+    <string name="setting_audio_track">Pista de áudio</string>
+    <string name="ok">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="play_list">Registro de transmissão</string>
+    <string name="time_delay">Atraso</string>
+    <string name="millseconds">MS</string>
+    <string name="no_subtitle">Sem subtítulo</string>
+    <string name="audio_trace_promote">"Pista de áudio "</string>
+    <string name="inner_subtitle_promote">Subtítulo interno</string>
+    <string name="today">Hoje</string>
+    <string name="days_ago">Dias antes</string>
+    <string name="exit_player">Confirmar sair do jogador local?</string>
+    <string name="b_promote">Dica</string>
+    <string name="delete_all">Excluir registros históricos</string>
+    <string name="control_prompt">Tecla de menu faz as definições de reprodução. As teclas para esquerda e para direita
+        fazem-se o ajuste de progresso da reprodução. A tecla para cima evoca os registros de reprodução
+    </string>
+    <string name="setting_play_mode">Modo de reprodução</string>
+    <string name="delete_all_success">Excluir com sucesso todos os registros</string>
+    <string name="warning">Aviso</string>
+    <string name="firm_delete_all_record">Confirmar se excluir todos os registros de reprodução?</string>
+    <string name="delete_success">Excluir com sucesso</string>
+    <string name="delete_current_record">Confirmar se excluir o registro de reprodução corrente?</string>
+    <string name="no_record">Sem registro de reprodução</string>
+    <string name="delay">Atraso</string>
+
+    <string name="setting_picture_mode1">Modo de imagem</string>
+    <string name="setting_imageMode_luminance">Brilho</string>
+    <string name="setting_imageMode_contrast">Contraste</string>
+    <string name="setting_imageMode_chroma">Saturação de cor</string>
+    <string name="setting_imageMode_sharpness">Nitidez</string>
+    <string name="setting_imageMode_denoise">Redução de ruído em 3D</string>
+
+    <string name="some_promote">Dica</string>
+    <string name="self_define">Personalizado</string>
+    <string name="close">Fechar</string>
+    <string name="open">Abrir</string>
+
+    <string name="setting_picture_zoom">relação de aspecto</string>
+    <string name="ppt_play">Slideshow</string>
+    <string name="replace_speed">velocidade de comutação</string>
+    <string name="slow">lenta</string>
+    <string name="middle">em</string>
+    <string name="fast">rápido</string>
+    <string name="no_picture">no arquivo de imagem</string>
+
+    <string name="file_not_exit_chk_network">Documento não existe, verifique a internet</string>
+    <string name="match_subtitle">Combinar legendas de forma inteligente</string>
+    <string name="failedsubtitle">Falhar ao combinar a legenda</string>
+    <string name="loaddowning">Sucesso em combinar a legenda, baixando...</string>
+    <string name="choicesubtitle">Download concluído, já selecionou o primeiro, por favor escolhe outras no menu</string>
+    <string name="onechoicesubtitle">Download concluído</string>
+	
+	<!--H1翻译添加-->
+	<string name="no_video_track">Sem faixa de áudio</string>
+    <string name="audio_codec">Codificação de áudio:</string>
+    <string name="video_codec">Codificação de vídeo:</string>
+    <string name="duration">Duração:</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="choose_time_0">0</string>
+    <string name="choose_time_colon">:</string>
+    <string name="programe_info">Informação do vídeo</string>
+    <string name="show_info">Erro na exibição </string>
+    <string name="buffering">O vídeo está a carregar, por favor, aguarde...</string>
+    <string name="playing">Exibindo</string>
+    <string name="video_subtitle">Legenda</string>
+    <string name="video_track">Faixa de áudio</string>
+    <string name="video_thumbnail_mode">Modo Thumbnail </string>
+    <string name="video_rotate_mode">Modo Rotate</string>
+    <string name="video_channel">Canal de áudio</string>
+    <string name="video_media_full_resize">Vídeo por tela inteira</string>
+    <string name="video_media_play_next">Continuar exibir o próximo vídeo？</string>
+    <string name="video_media_default">A resolução pre-definida do vídeo</string>
+    <string name="video_media_full">Vídeo à tela inteira proporcional</string>
+    <string name="video_audio_track_switch_info">Não comute entre as faixas de áudio de forma frequente!</string>
+    <string name="video_thumbnail_switch_info">Não opere frequentemente a iniciação e desligamento no modo thumbnail!</string>
+    <string name="video_no_support_two_4k"> É imcompatível a exibição de dois vídeos 4k simultaneamente.</string>
+    <string name="video_no_support_seamless_dualscreen">Não suporta a exibição sem intervalo no modo de visão dupla!</string>
+    <string name="video_iso_tip">Não suporta a exibição de arquivos ISO</string>
+    <string name="open_file_fail"> Não consegue abrir o arquivo!</string>
+    <string name="audio_track_codec">Codificação da faixa de áudio</string>
+    <string name="audio_track_channel">Canal da faixa de áudio</string>
+    <string name="audio_track_name">Nome da faixa de áudio</string>
+    <string name="can_not_open_dual_HEVC_Video">Não consegue operar duplo-codificação no modo H.265/HEVC </string>
+    <string name="can_not_open_dual_Thumbnail_Video">Não suporta duplo-odificação no modo Thumbnail </string>
+    <string name="can_not_open_dual_this_platform">A plataforma é imcompatível com duplo codificação</string>
+    <string name="can_not_open_thumbnail_dual_Video">Não consegue abrir Thumbnail no modo de duplo-codificação</string>
+    <string name="can_not_open_thumbnail_4kVideo"> Não consegue abrir Thumbnail no modo de 4k1k/4k2k</string>
+    <string name="can_not_open_thumbnail_3DMode">Não consegue abrir Thumbnail no modo 3D</string>
+    <string name="can_not_open_thumbnail_this_platform">A função Thumbnail está imcompatível na plataforma</string>
+    <string name="can_not_open_dual_rotate_mode">Não consegue operar duplo-codificação no modo Rotate</string>
+    <string name="can_not_open_rotate_dual_mode">Não consegue girar no modo Dual View</string>
+    <string name="can_not_open_rotate"> Não suporta girar na presente plataforma</string>
+    <string name="can_not_support_aspect_ratio">O presente vídeo não suporta modo proporcional</string>
+    <string name="subtitle_0_value_1"> Exibir a legenda exterior</string>
+    <string name="subtitle_0_value_2"> Exibir a legenda interior</string>
+    <string name="subtitle_1_value_1"> Clique para escolher a linha de legenda</string>
+    <string name="subtitle_1_value_2">Não tem legenda exterior</string>
+    <string name="subtitle_2_value_1">Não existe</string>
+    <string name="subtitle_2_value_2">Legenda</string>
+    <string name="subtitle_3_value_1">Desconhecido</string>
+    <string name="subtitle_3_value_2">Não existe</string>
+    <string name="subtitle_4_value_1">Pre-definido</string>
+    <string name="subtitle_4_value_2">Sem serifa</string>
+    <string name="subtitle_4_value_3">único espaçamento</string>
+    <string name="subtitle_5_value_1">Grande</string>
+    <string name="subtitle_5_value_2">Médio</string>
+    <string name="subtitle_5_value_3">Pequeno</string>
+    <string name="subtitle_6_value_1">Branco</string>
+    <string name="subtitle_6_value_2">Negro</string>
+    <string name="subtitle_6_value_3">Azul</string>
+    <string name="subtitle_7_value_1">Não</string>
+    <string name="subtitle_7_value_2">Sim</string>
+    <string name="subtitle_8_value_1">Baixo da tela de vídeo</string>
+    <string name="subtitle_8_value_2">Topo da tela de vídeo</string>
+    <string name="subtitle_9_value">0</string>
+
+    <string-array name="subtitle_setting_opt">
+        <item>Exibir a lenda exterior</item>
+        <item>Clique para escolher a linha de legenda</item>
+        <item>Nao existe</item>
+        <item>Desconhecido</item>
+        <item>Pre-definido</item>
+        <item>Médio</item>
+        <item>Branco</item>
+        <item>Não</item> 
+        <item>O baixo da tela de vídeo</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="subtitle_change_msg">Selecionou a legenda exterior, somente a lengenda interior tem codificação! </string>
+    <string name="subtitle_change_path">Slecionou a legenda interior, suporta escolher a linha de legenda somente no caso de legenda exterior !</string>
+    <string name="choose_time_invalid">A hora que definiu é inválido, por favor, tente novamente!</string>
+    <string name="subtitle_change_invalid">A legenda da imagem não suporta a operação!</string>
+    <string name="external_subtitle_setting_operation_invalid">Operação incompatível! Por favor, verifique a conexão da linha de legenda exterior!</string>
+
+    <string-array name="play_setting_opt">
+        <item>Ligar</item>
+        <item>Desligar</item>
+        <item>Ligar</item>
+        <item>Desligar</item>
+        <item>Desligar</item>
+        <item></item>
+    </string-array>
+
+	<string name="play_setting_0_value_1">Ligar</string>
+	<string name="play_setting_0_value_2">Desligar</string>
+	<string name="video_size_unknown">Desconhecido</string>
+
+    <string-array name="audio_track_setting_opt">
+        <item>Faixa de áudio 1</item>
+        <item>1</item>
+        <item>00:00:00</item>
+        <item>Desconhecido</item>
+        <item>Desconhecido</item>
+        <item>Desconhecido</item>
+        <item>Desconhecido</item>
+    </string-array>
+
+	<string name="audio_track_setting_0_value_1">Faixa do áudio</string>
+	<string name="subtitle_setting_0_value_1">Ligação interior</string>
+	<string name="subtitle_setting_0_value_2">Ligação exterior</string>
+	<string name="matching_subtitle">Combinação inteligente da legenda </string>
+	<string name="subtitlelocation">Local da legenda</string>
+	<string name="loading">Carregando...</string>
+	<string name="pptplay_anim">Animação de slide</string>
+	<string name="video_not_exit">O arquivo do vídeo não existe</string>
+	<string name="ppt_pause_promote">Slides pausados, pressione botão OK para continuar</string>
+	<string name="ppt_start_promote">A apresentação de Slides começou, pressione botão OK para pausar</string>
+	<string name="temp_color">Farbtemperatur</string>
+	<string name="setasdfasdf">Definir como papel de parede</string>
+	<string name="defaut_time1">-00:00:00</string>
+	<string name="color_temp">Temperatura de Cor</string>
+	<string name="red">Vermelho</string>
+	<string name="green">Verde</string>
+	<string name="blue">Azul</string>
+	<string name="hrs">Envolvente virtual</string>
+	
+</resources>

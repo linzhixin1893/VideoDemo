@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_media_error_unknown">errore sconosciuto</string>
+    <string name="video_media_error_malformed">altre errore eccezionale</string>
+    <string name="video_media_error_io">IO Errore di LETTURA e SCRITTURA</string>
+    <string name="video_media_error_unsupported"> errore di non sostegno del sistema</string>
+    <string name="video_media_error_format_unsupport">formato non supportato</string>
+    <string name="video_media_error_not_connected">errore di connessione dei dati</string>
+    <string name="video_media_error_audio_unsupport">formato audio non supportato</string>
+    <string name="video_media_error_video_unsupport">formato video non supportato</string>
+    <string name="video_media_error_no_license">i dati di giocare non ha licenza</string>
+    <string name="video_media_error_license_expired">licenza scaduta</string>
+    <string name="video_media_other_error_unknown">altre errore sconosciuto</string>
+    <string name="video_media_error_not_valid">sequenza video continuonon è efficace</string>
+    <string name="video_media_error_server_died">servitore del video morto</string>
+    <string name="video_media_infor_no_index">file video non c\'è l\'Indice, non può posizionare la posizione all\'inizio o tornare indietro</string>
+    <string name="video_media_infor_no_index_ab">file video non c\'è l\'Indice,non è in grado di stabilire rigiocare di AB</string>
+    <string name="video_media_do_forward_info">non premere in Avanti troppo frequenti,  intervallo di tempo deve essere superiore a 600 millisecondo</string>
+    <string name="subtitle_type">categorie di sottotitolo</string>
+    <string name="subtitle_out_path">traiettoria di sottotitolo esterno</string>
+    <string name="subtitle_in_no">codice di sottotitolo interno</string>
+    <string name="subtitle_language">lingua di sottotitolo</string>
+    <string name="subtitle_color">colore di testo di sottotitolo</string>
+    <string name="subtitle_font">caratteri di sottotitolo</string>
+    <string name="subtitle_font_size">grandezza di sottotitolo</string>
+    <string name="subtitle_frame">ombra di sottotitolo</string>
+    <string name="subtitle_area">area di sottotitolo</string>
+    <string name="subtitle_adjust">adeguamento di asse di tempo di sottotitolo</string>
+    <string name="subtitleList">lista di sottotitolo</string>
+    <string name="playList">lista di giocare</string>
+    <string name="subtitle_setting">impostazione di sottotitolo</string>
+    <string name="a_b_section_repeat">ripetizione di sezione A-B</string>
+    <string name="section_replay">ripetizione di giocare sezione</string>
+    <string name="set_begin_a">impostazione d\'inizio A</string>
+    <string name="set_begin_b">impostazione d\'inizio B</string>
+    <string name="audio_track_count">quantita di tracce audio</string>
+    <string name="audio_track_number">impostazione di codice di tracce audio</string>
+    <string name="audio_track_duration">tempo totale di tracce audio</string>
+    <string name="audio_track_language">lingua di tracce audio</string>
+    <string name="audio_track_setting">audio di tracce audio</string>
+    <string name="point_a">posizione punto A</string>
+    <string name="point_b">posizione punto B</string>
+    <string name="one_times_speed">1 volte velocita</string>
+    <string name="x_times_speed">volte velocita</string>
+    <string name="playing_settings">impostazione di giocare</string>
+    <string name="open_ab_repeat">si deve accendere questa funzione per usare giocare AB</string>
+    <string name="set_point_a_first">prima di impostare posizione punto B,impostare prima posizione punto A</string>
+    <string name="video_three_d_setting">3D impostazione</string>
+    <string name="video_3D_none">spengere</string>
+    <string name="video_3D_side_by_side">sinistra destra</string>
+    <string name="video_3D_top_bottom">sopra sotto</string>
+    <string name="video_3D_frame_packing">doppia definizione alta</string>
+    <string name="video_3D_line_alternative">linea alternativa</string>
+    <string name="video_3D_2dto3d">2D trasferisce a 3D</string>
+    <string name="video_3D_auto">automatico</string>
+    <string name="video_3D_check_board">bordo di controllo</string>
+    <string name="video_3D_pixel_alternative">fila alternativa</string>
+    <string name="video_3D_frame_alternative">cornice alternativa</string>
+    <string name="video_3D_count">COUNT</string>
+    <string name="video_3D_switch_info">non cambiare interruttore di 3D troppo spesso</string>
+    <string name="aspect_ratio_16X9">risoluzione di 16:9</string>
+    <string name="aspect_ratio_4X3">risoluzione di 4:3</string>
+    <string name="aspect_ratio_default">default come risoluzione automatica</string>
+    <string name="can_not_open_dual">nel modo di 3D,non puo aprire duplice</string>
+    <string name="can_not_open_3D">nel modo di duplice,non puo aprire 3D</string>
+    <string name="video_start_time">tempo inizio video</string>
+    <string name="video_buffer_time">tempo barriera:</string>
+    <string name="video_first_video_frame_time">tempo del primo cornice:</string>
+    <string name="video_breakpoint_play">continua a giocare?</string>
+    <string name="video_breakpoint">video di punto di rottura</string>
+    <string name="can_not_open_dual_pip">nel modo di PIP/POP/DUALVIEW,non puo aprire doplice</string>
+    <string name="can_not_open_dual_4kVideo">nel modo di 4k1k/4k2k,non puo aprire doplice</string>
+
+    <string name="app_name">giocatore locale v2.0</string>
+    <string name="test_str">cao ni ma de dan</string>
+    <string name="default_time">00:00:00</string>
+    <string name="iso_file_cant_play">File ISO non puo giocare</string>
+    <string name="setting_three_d">Impostazione di 3D</string>
+    <string name="setting">Impostazione</string>
+    <string name="exit_ok">confermare</string>
+    <string name="exit_cancel">anulare</string>
+    <string name="choose_time_failed">il video non può essere posizionato correttamente!!</string>
+    <string name="setting_subtitle">sottotitolo</string>
+    <string name="setting_picture_mode">modo dell\'immagine</string>
+    <string name="setting_voice">effetti sonori</string>
+    <string name="setting_audio_track">traccia sonore</string>
+    <string name="ok">confermare</string>
+    <string name="cancel">anulare</string>
+    <string name="play_list">registro di giocare</string>
+    <string name="time_delay">ritardo</string>
+    <string name="millseconds">MS</string>
+    <string name="no_subtitle">nessun sottotitolo</string>
+    <string name="audio_trace_promote">"traccia sonore "</string>
+    <string name="inner_subtitle_promote"> sottotitolo interno</string>
+    <string name="today">oggi</string>
+    <string name="days_ago">giorni fa</string>
+    <string name="exit_player">conferma di uscire giocatore locale？</string>
+    <string name="b_promote">suggerimento</string>
+    <string name="delete_all">cancellare il registro</string>
+    <string name="control_prompt">tasto menu imposta gioco.tasto a sinistra e a destra per svolgere i progressi di aggiustamento.la chiave su gioca il registro</string>
+    <string name="setting_play_mode">modo del gioco</string>
+    <string name="delete_all_success">cancellare tutti registri con successo</string>
+    <string name="warning">avvertimento</string>
+    <string name="firm_delete_all_record">cancellare tutti i registri？</string>
+    <string name="delete_success">cancellare con successo</string>
+    <string name="delete_current_record">cancellare questo registro？</string>
+    <string name="no_record">nessun registro</string>
+    <string name="delay">ritardo</string>
+    <string name="some_promote">suggerimento</string>
+    <string name="setting_picture_mode1">modo di foto</string>
+    <string name="setting_picture_zoom">proporzione di immagini</string>
+    <string name="setting_imageMode_luminance">luminosità</string>
+    <string name="setting_imageMode_contrast">Contrasto</string>
+    <string name="setting_imageMode_chroma">saturazione del colore</string>
+    <string name="setting_imageMode_sharpness">angolosità</string>
+    <string name="setting_imageMode_denoise">ridurre rumore di 3D</string>
+    <string name="self_define">definire utente</string>
+    <string name="ppt_play">giocare PPT</string>
+    <string name="replace_speed">velocità di sostituire</string>
+    <string name="close">spengere</string>
+    <string name="open">accendere</string>
+    <string name="slow">lento</string>
+    <string name="middle">medio</string>
+    <string name="fast">rapido</string>
+    <string name="no_picture">no foto</string>
+    <string name="file_not_exit_chk_network">il file non esiste, controlla la rete</string>
+     <string name="match_subtitle">in corso di accoppiare sottotitolo</string>
+    <string name="failedsubtitle">accoppiamento sottotitolo fallita</string>
+    <string name="loaddowning">accoppiamento sottotitolo con successo,in corso di scaricare il sottotitolo...</string>
+    <string name="choicesubtitle">completato scaricamento sottotitolo，selezionato il primo，selezionare altri sottotitoli in menu</string>
+    <string name="onechoicesubtitle">completato scaricamento sottotitolo</string>
+	
+	<!--H1翻译添加-->
+	<string name="no_video_track">Nessuna traccia</string>
+    <string name="audio_codec">Codice dell\'audio:</string>
+    <string name="video_codec">Codice del video:</string>
+    <string name="duration">Durata:</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="choose_time_0">0</string>
+    <string name="choose_time_colon">:</string>
+    <string name="programe_info">Info sul video</string>
+    <string name="show_info">Errore durante la riproduzione</string>
+    <string name="buffering">Il video sta caricando, attendi prego...</string>
+    <string name="playing">Riproduzione in corso</string>
+    <string name="video_subtitle">Sottotitoli</string>
+    <string name="video_track">Traccia</string>
+    <string name="video_thumbnail_mode">Modo di Thumbnail</string>
+    <string name="video_rotate_mode">Modo di Rotate</string>
+    <string name="video_channel">Traccia audio</string>
+    <string name="video_media_full_resize">Schermo intero</string>
+    <string name="video_media_play_next">Continui a riprodurre il prossimo video?</string>
+    <string name="video_media_default">Risoluzione predefinita del video</string>
+    <string name="video_media_full">Video allo schermo intero alla proporzione uguale</string>
+    <string name="video_audio_track_switch_info">Non cambiare la traccia audio troppo frequentemente!</string>
+    <string name="video_thumbnail_switch_info">Non attivare e disattivare il modo thumbnail troppo frequentemente!</string>
+    <string name="video_no_support_two_4k">Riproduzione di due 4k video simultaneamente non supportata.</string>
+    <string name="video_no_support_seamless_dualscreen"> La riproduzione senza intervallo non è supportata sotto il modo di doppio schermo!</string>
+    <string name="video_iso_tip">File ISO non supportato</string>
+    <string name="open_file_fail">Il file non è apribile! </string>
+    <string name="audio_track_codec">Codice della traccia</string>
+    <string name="audio_track_channel">Canali audio della treccia</string>
+    <string name="audio_track_name">Nome della traccia</string>
+    <string name="can_not_open_dual_HEVC_Video">La decodificazione doppia non è attivabile sotto il modo H.265/HEVC</string>
+    <string name="can_not_open_dual_Thumbnail_Video">La decodificazione doppia non è attivabile sotto il modo di Thumbnail</string>
+    <string name="can_not_open_dual_this_platform"> La decodificazione doppia non è supportata da questa piattaforma</string>
+    <string name="can_not_open_thumbnail_dual_Video">Il Thumbnail non è attivabile sotto il modo della decodificazione doppia</string>
+    <string name="can_not_open_thumbnail_4kVideo">Il Thumbnail non è attivabile sotto il modo di 4k1k/4k2k </string>
+    <string name="can_not_open_thumbnail_3DMode">Il Thumbnail non è attivabile sotto il modo 3D</string>
+    <string name="can_not_open_thumbnail_this_platform"> La funzione di thumbnail non è supportata da questa piattaforma</string>
+    <string name="can_not_open_dual_rotate_mode">La decodificazione doppia non è attivabile sotto il modo di Rotate</string>
+    <string name="can_not_open_rotate_dual_mode">La rotazione non è disponibile sotto il modo Dual View</string>
+    <string name="can_not_open_rotate">La rotazione è disponibile su questa piattaforma</string>
+    <string name="can_not_support_aspect_ratio">Il video attuale non supporta questa proporzione di schermo</string>
+    <string name="subtitle_0_value_1">Dimostra i sottotitoli esterni</string>
+    <string name="subtitle_0_value_2">Dimostra i sottotitoli interni</string>
+    <string name="subtitle_1_value_1">Clicca per selezionare il percorso</string>
+    <string name="subtitle_1_value_2">Nessuno sottotitolo esterno</string>
+    <string name="subtitle_2_value_1">Nulla</string>
+    <string name="subtitle_2_value_2">Sottotitoli</string>
+    <string name="subtitle_3_value_1">Sconosciuto</string>
+    <string name="subtitle_3_value_2">Nulla</string>
+    <string name="subtitle_4_value_1">Predefinizione</string>
+    <string name="subtitle_4_value_2">Carattere senza grazie</string>
+    <string name="subtitle_4_value_3">Intervallo singolo</string>
+    <string name="subtitle_5_value_1">Grande</string>
+    <string name="subtitle_5_value_2">Medio</string>
+    <string name="subtitle_5_value_3">Piccolo</string>
+    <string name="subtitle_6_value_1">Bianco</string>
+    <string name="subtitle_6_value_2">Nero</string>
+    <string name="subtitle_6_value_3">Blu</string>
+    <string name="subtitle_7_value_1">No</string>
+    <string name="subtitle_7_value_2">Sì</string>
+    <string name="subtitle_8_value_1">Nella parte inferiore dell\'immagine</string>
+    <string name="subtitle_8_value_2">Nella parte superiore dell\'immagine</string>
+    <string name="subtitle_9_value">0</string>
+
+    <string-array name="subtitle_setting_opt">
+        <item>Dimostra i sottotitoli esterni</item>
+        <item>Clicca per selezionare il percorso</item>
+        <item>Nulla</item>
+        <item>Sconosciuto</item>
+        <item>Predefinizione</item>
+        <item>Medio</item>
+        <item>Bianco</item>
+        <item>No</item>
+        <item>Nella parte inferiore dell\'immagine</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="subtitle_change_msg">I sottotitoli selezionati sono esterni. Solo quelli interni hanno il codice dei sottotitoli!</string>
+    <string name="subtitle_change_path">I sottotitoli selezionati sono interni. Solo quelli esterni hanno il percorso!</string>
+    <string name="choose_time_invalid">Ora impostata illegale. Riprova!</string>
+    <string name="subtitle_change_invalid">Questa operazione è supportata dalle immagini nиж dai sottotitoli!</string>
+    <string name="external_subtitle_setting_operation_invalid"> Operazione non supportata! Verifica che il percorso dei sottotitoli esterni sia stato impostato!</string>
+
+    <string-array name="play_setting_opt">
+        <item>Attivo</item>
+        <item>Disattivo</item>
+        <item>Attivo</item>
+        <item>Disattivo</item>
+        <item>Disattivo</item>
+        <item></item>
+    </string-array>
+
+	<string name="play_setting_0_value_1">Attivo</string>
+	<string name="play_setting_0_value_2">Disattivo</string>
+	<string name="video_size_unknown">Sconosciuto</string>
+
+    <string-array name="audio_track_setting_opt">
+        <item>Traccia 1</item>
+        <item>1</item>
+        <item>00:00:00</item>
+        <item>Sconosciuto</item>
+        <item>Sconosciuto</item>
+        <item>Sconosciuto</item>
+        <item>Sconosciuto</item>
+    </string-array>
+
+	<string name="audio_track_setting_0_value_1">Traccia</string>
+	<string name="subtitle_setting_0_value_1">Interno</string>
+	<string name="subtitle_setting_0_value_2">Esterno</string>
+	<string name="matching_subtitle">Abbinamento dei sottotitoli intelligente</string>
+	<string name="subtitlelocation">Posizione dei sottotitolil</string>
+	<string name="loading">Caricamento in corso...</string>
+	<string name="pptplay_anim">Animazione delle diapositive</string>
+	<string name="video_not_exit">Video file non esiste</string>
+	<string name="ppt_pause_promote">Diapositive fermate, prendi OK per continuare</string>
+	<string name="ppt_start_promote">Diapositive attivate, prendi OK per fermare</string>
+	<string name="temp_color">Farbtemperatur</string>
+	<string name="setasdfasdf">Imposta come lo sfondo</string>
+	<string name="defaut_time1">-00:00:00</string>
+	<string name="color_temp">Temperatura di colore</string>
+	<string name="red">Rosso</string>
+	<string name="green">Verde</string>
+	<string name="blue">Blu</string>
+	<string name="hrs">Surround virtuale</string>
+	
+</resources>

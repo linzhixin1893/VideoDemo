@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="video_filter">
+        <!--this is no video file but it may contain some file could play-->
+        <item>.avi</item>
+        <item>.asf</item>
+        <item>.wmv</item>
+        <item>.m2t</item>
+        <item>.mts</item>
+        <item>.ts</item>
+        <item>.mpg</item>
+        <item>.m2p</item>
+        <item>.mp4</item>
+        <item>.flv</item>
+        <item>.swf</item>
+        <item>.vob</item>
+        <item>.mkv</item>
+        <item>.divx</item>
+        <item>.xvid</item>
+        <item>.mov</item>
+        <item>.rmvb</item>
+        <item>.rv</item>
+        <item>.3gp</item>
+        <item>.3g2</item>
+        <item>.dat</item>
+        <item>.pmp</item>
+        <item>.tp</item>
+        <item>.trp</item>
+        <item>.rm</item>
+        <item>.webm</item>
+        <!-- <item>.m2ts</item> -->
+        <item>.ssif</item>
+        <item>.mpeg</item>
+        <item>.mpe</item>
+        <item>.m3u8</item>
+        <item>.m4v</item>
+    </string-array>
+
+    <string-array name="picture_mode">
+        <item>Bright</item>
+        <item>Standard</item>
+        <item>Soft</item>
+        <item>@string/nature</item>
+		<!--开灯其他语言未翻译 H1_EN V1.0.0-->
+        <item>Light up</item>
+        <item>@string/self_define</item>
+    </string-array>
+    <string-array name="temp_color_chose">
+        <item>Cold</item>
+        <item>Standard</item>
+        <item>Warm</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>Standard</item>
+        <item>Music</item>
+        <item>Cinema</item>
+        <item>News</item>
+        <item>Outdoor</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>Original ratio</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>Remain subtitle</item>
+        <item>Dislodge black edge</item>
+        <item>Point-to-point</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>Off</item>
+        <item>Auto</item>
+        <item>Up and down</item>
+        <item>Right and left</item>
+        <item>Blue ray</item>
+        <item>3D converts to 2D (up and down)</item>
+        <item>3D converts to 2D (right and left)</item>
+        <item>2D converts to 3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Auto loop</item>
+        <item>Single loop</item>
+    </string-array>
+
+    <string-array name="photo_filter">
+        <item>.jpe</item>
+        <item>.jpg</item>
+        <item>.jpeg</item>
+        <item>.png</item>
+        <item>.bmp</item>
+        <item>.gif</item>
+        <item>.tiff</item>
+        <!--   <item>.pcx</item> -->
+        <item>.tga</item>
+        <item>.exif</item>
+        <item>.fpx</item>
+        <item>.svg</item>
+        <item>.psd</item>
+        <item>.cdr</item>
+        <item>.pcd</item>
+        <item>.dxf</item>
+        <item>.ufo</item>
+        <item>.eps</item>
+        <item>.raw</item>
+        <item>.mpo</item>
+        <!-- <item>tif</item>> -->
+    </string-array>
+	<string-array name="setting_name">
+        <item>automatisch wiederholen</item>
+        <item>aktuelles Lied wiederholen</item>
+    </string-array>
+    <string-array name="custom_clortemp_values">
+        <item>Cold</item>
+        <item>Standard</item>
+        <item>Warm</item>
+        <item>User</item>
+    </string-array>
+	
+	<!--未翻译 H1外文V1.0.0-->
+	<string-array name="play_modes">
+        <item>Loop</item>
+        <item>Close when finished</item>
+    </string-array>
+</resources>

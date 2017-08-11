@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="picture_mode">
+        <item>lucentezza</item>
+        <item>normale</item>
+        <item>morbido</item>
+        <item>@string/nature</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>normale</item>
+        <item>musica</item>
+        <item>camera</item>
+        <item>notizia</item>
+        <item>all\'aperto</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>spengere</item>
+        <item>accendere</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>dimensioni originali</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>rimane sottotitolo</item>
+        <item>cancellare margine nero</item>
+        <item>punto a punto</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>spengere</item>
+        <item>automatico</item>
+        <item>su e giu</item>
+        <item>sinistra e destra</item>
+        <item>luce blu</item>
+        <item>3D trasferisce a 2D(su e giu)</item>
+        <item>3D trasferisce a 2D(sinistra e destra)</item>
+        <item>2D trasferisce a 3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>ciclo automatico</item>
+        <item>ciclo singolo</item>
+    </string-array>
+	<string-array name="setting_name">
+        <item>ciclo automatico</item>
+        <item>ciclo singolo</item>
+    </string-array>
+	
+	<string-array name="custom_clortemp_values">
+        <item>freddo</item>
+	    <item>standard</item>
+	    <item>caldo</item>
+	    <item>utente</item>
+    </string-array>
+</resources>

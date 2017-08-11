@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_media_error_unknown">unbekannter Fehler</string>
+    <string name="video_media_error_malformed">sonstige abnormale Fehler</string>
+    <string name="video_media_error_io">IO Lese- und Schreibfehler</string>
+    <string name="video_media_error_unsupported">Das System unterstützt keine Fehler</string>
+    <string name="video_media_error_format_unsupport">Form wird nicht unterstützt</string>
+    <string name="video_media_error_not_connected">Datenverbindungsfehler</string>
+    <string name="video_media_error_audio_unsupport">Form der Tonfrequenz wird nicht unterstützt</string>
+    <string name="video_media_error_video_unsupport">Form des Video wird nicht unterstützt</string>
+    <string name="video_media_error_no_license">Spielerdaten haben keine Zulassung</string>
+    <string name="video_media_error_license_expired">Zulassung abgelaufen</string>
+    <string name="video_media_other_error_unknown">sonstige abnormale Fehler</string>
+    <string name="video_media_error_not_valid">keine gültige fortlaufende Videoreihenfolge</string>
+    <string name="video_media_error_server_died">Mediaserver abstürzt</string>
+    <string name="video_media_infor_no_index">Video-Dokument hat kein Verzeichnis,die Position vom Startpunkt und Fast
+        Backward konnten nicht eingestellt werden
+    </string>
+    <string name="video_media_infor_no_index_ab">Video-Dokument hat kein Verzeichnis,Wiederholung zwischen A-B konnte nicht
+        eingestellt werden
+    </string>
+    <string name="video_media_do_forward_info">Drücken Sie Fast Forward nicht zu oft,die Zwischenzeit sollte größer als 600 ms
+        sein
+    </string>
+    <string name="subtitleList">Untertitelliste</string>
+    <string name="playList">Sendungsliste</string>
+    <string name="subtitle_setting">Untertiteleinstellungen</string>
+    <string name="a_b_section_repeat">Wiederholung zwischen A-B</string>
+    <string name="section_replay">Wiederholung zwischen</string>
+    <string name="set_begin_a">Startpunkt A einstellen</string>
+    <string name="set_begin_b">Startpunkt B einstellen</string>
+    <string name="audio_track_count">die Zahl der Spuren</string>
+    <string name="audio_track_number">Spurnummer einstellen</string>
+    <string name="audio_track_duration">Spurdauer</string>
+    <string name="audio_track_language">die Sprache der Spuren</string>
+    <string name="audio_track_setting">Spureinstellung</string>
+    <string name="point_a">Position von Punkt A</string>
+    <string name="point_b">Position von Punkt B</string>
+    <string name="one_times_speed">1 Speed</string>
+    <string name="x_times_speed">Speed</string>
+    <string name="playing_settings">Broadcast-Einstellungen</string>
+    <string name="open_ab_repeat">Ohne diese Funktion zu öffnen ist die AB Spieler nicht verfügbar</string>
+    <string name="set_point_a_first">Bevor man Punkt B einstellt hat,muss man zuerst Punkt A einstellen</string>
+    <string name="video_three_d_setting">3D einstellen</string>
+    <string name="video_3D_none">beenden</string>
+    <string name="video_3D_side_by_side">linksrechts</string>
+    <string name="video_3D_top_bottom">obenunten</string>
+    <string name="video_3D_frame_packing">Dual hoch und klar</string>
+    <string name="video_3D_line_alternative">verzahnen</string>
+    <string name="video_3D_2dto3d">2Dzu3D</string>
+    <string name="video_3D_auto">automatisch</string>
+    <string name="video_3D_check_board">Damebrett</string>
+    <string name="video_3D_pixel_alternative">Das Reihen ist ineinander</string>
+    <string name="video_3D_frame_alternative">Frame ist ineinander</string>
+    <string name="video_3D_count">COUNT</string>
+    <string name="video_3D_switch_info">Bitte wechseln Sie der 3D-Schalter nicht so oft</string>
+    <string name="aspect_ratio_16X9">Auflösung16:9</string>
+    <string name="aspect_ratio_4X3">Auflösung4:3</string>
+    <string name="aspect_ratio_default">Die Standardeinstellung ist die automatische Auflösung</string>
+    <string name="can_not_open_dual">Im Modus von 3D kann der Dual-Modus nicht geöffnet werden</string>
+    <string name="can_not_open_3D">Im Dual-Modus kann 3D nicht geöffnet werden</string>
+    <string name="video_start_time">Anfangszeit vom Video</string>
+    <string name="video_buffer_time">Pufferzeit :</string>
+    <string name="video_first_video_frame_time">Die erste Bildzeit :</string>
+    <string name="video_breakpoint_play">Spiel nach dem Letzten？</string>
+    <string name="video_breakpoint">Breakpoint-Play</string>
+    <string name="can_not_open_dual_pip">Im Modus von PIP/POP/DUALVIEW kann Dual-Modus nicht geöffnet werden</string>
+    <string name="can_not_open_dual_4kVideo">Im Modus von 4k1k/4k2k kann Dual-Modus nicht geöffnet werden</string>
+
+    <string name="app_name">lokaler Player v2.0</string>
+    <string name="test_str">cao ni ma de dan</string>
+    <string name="default_time">00:00:00</string>
+    <string name="iso_file_cant_play">ISO Dokumente unspielbar</string>
+    <string name="setting_three_d">3D Einstellungen</string>
+    <string name="setting">Einstellungen</string>
+    <string name="exit_ok">bestätigen</string>
+    <string name="exit_cancel">abbrechen</string>
+    <string name="choose_time_failed">Bei diesem Video erfolgt eine präzise Ortung nicht!</string>
+    <string name="setting_subtitle">Untertitel</string>
+    <string name="setting_picture_mode">Bildmodus</string>
+    <string name="setting_voice">Soundeffekt</string>
+    <string name="setting_audio_track">Audio Track</string>
+    <string name="ok">bestätigen</string>
+    <string name="cancel">abbrechen</string>
+    <string name="play_list">Playlist</string>
+    <string name="time_delay">verzögern</string>
+    <string name="millseconds">MS</string>
+    <string name="no_subtitle">ohne Untertitel</string>
+    <string name="audio_trace_promote">"Audio Track "</string>
+    <string name="inner_subtitle_promote">Innenliegende Untertitel</string>
+    <string name="today">heute</string>
+    <string name="days_ago">Tage vorher</string>
+    <string name="exit_player">Sind Sie sicher, von dem lokalen Player zurückzutreten?</string>
+    <string name="b_promote">Hinweis</string>
+    <string name="delete_all">Anschauprotokoll löschen</string>
+    <string name="control_prompt">Menütaste zur Spieleinstellungen, linke und rechte Tasten zur Laufanpassung, Aufwärtstaste
+        zum Abrufen der Geschichte
+    </string>
+    <string name="setting_play_mode">Abspielmodus</string>
+    <string name="delete_all_success">Alle Geschichten werden erfolgreich gelöscht</string>
+    <string name="warning">Warnung</string>
+    <string name="firm_delete_all_record">Alle Protokolle löschen?</string>
+    <string name="delete_success">gelöscht</string>
+    <string name="delete_current_record">Dieses Protokoll löschen?</string>
+    <string name="no_record">Kein Protokoll vorhanden</string>
+    <string name="delay">verzögern</string>
+
+    <string name="setting_picture_mode1">Bildermodus</string>
+    <string name="setting_imageMode_luminance">Helligkeit</string>
+    <string name="setting_imageMode_contrast">Kontrast</string>
+    <string name="setting_imageMode_chroma">Farbsättigung</string>
+    <string name="setting_imageMode_sharpness">Schärfe</string>
+    <string name="setting_imageMode_denoise">3D-Rauschunterdrückung</string>
+
+    <string name="some_promote">Hinweis</string>
+    <string name="self_define">benutzerdefinieren</string>
+    <string name="open">ein</string>
+    <string name="close">aus</string>
+
+    <string name="setting_picture_zoom">Seitenverhältnis</string>
+    <string name="ppt_play">Diashow</string>
+    <string name="replace_speed">Schaltgeschwindigkeit</string>
+    <string name="slow">Langsam</string>
+    <string name="middle">in</string>
+    <string name="fast">fast</string>
+    <string name="no_picture">keineImage-Datei</string>
+    <string name="file_not_exit_chk_network">Datei nicht vorhanden, bitte prüfen Sie das Netzwerk.</string>
+    <string name="match_subtitle">Smart matching subtitles</string>
+    <string name="failedsubtitle">Match subtitles fail</string>
+    <string name="loaddowning">Match subtitles success, downloading subtitles...</string>
+    <string name="choicesubtitle">Subtitles download complete, the first one is selected, please select others in menu</string>
+    <string name="onechoicesubtitle">Subtitles download complete</string>
+	
+	<!--2016.7.1 新增翻译-->
+	<string name="no_video_track">Keine Audiospur</string>
+    <string name="audio_codec">Audio-Codec:</string>
+    <string name="video_codec">Video-Codec:</string>
+    <string name="duration">Dauer:</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="choose_time_0">0</string>
+    <string name="choose_time_colon">:</string>
+    <string name="programe_info">Video-Informationen</string>
+    <string name="show_info">Wiedergabefehler</string>
+    <string name="buffering">Das Video steht noch in der Pfufferung, bitte warten Sie darauf...</string>
+    <string name="playing">Wiedergeben</string>
+    <string name="video_subtitle">Untertitel</string>
+    <string name="video_track">Audiospur</string>
+    <string name="video_thumbnail_mode">Miniaturbildmodus</string>
+    <string name="video_rotate_mode">Rotieren-Modus</string>
+    <string name="video_channel">Tonkanal</string>
+    <string name="video_media_full_resize">Groesse des Videos bis zum Vollbild ver?ndern</string>
+    <string name="video_media_play_next">Das n?chste Video fort wiedergeben?</string>
+    <string name="video_media_default">Standardaufloesung des Videos</string>
+    <string name="video_media_full">Vollbild des Videos in gleicher Proportion</string>
+    <string name="video_audio_track_switch_info">Wechseln Sie bitte nicht zu h?ufig Videospur!</string>
+    <string name="video_thumbnail_switch_info">Wechseln Sie bitte nicht zu haeufig den Schalter des Miniaturbildmodus!</string>
+    <string name="video_no_support_two_4k">Es wird nicht unterstützt, zwei 4k Videos geleichzeitig wiederzugeben.</string>
+    <string name="video_no_support_seamless_dualscreen">Es wird nicht unterstützt, im Dualschirm-Modus nahtlos wiederzugeben!</string>
+    <string name="video_iso_tip">ISO Datei wird nicht unterstützt</string>
+    <string name="open_file_fail">Es ist nicht in der Lage, die Datei zu oeffnen!</string>
+    <string name="audio_track_codec">Codec der Audiospur</string>
+    <string name="audio_track_channel">Tonkanal der Audiospur</string>
+    <string name="audio_track_name">Name der Audiospur</string>
+    <string name="can_not_open_dual_HEVC_Video">Im H.265/HEVC-Modus kann Dual-Modus nicht geoeffnet werden</string>
+    <string name="can_not_open_dual_Thumbnail_Video">Im Miniaturbildmodus kann Dual-Modus nicht geoeffnet werden</string>
+    <string name="can_not_open_dual_this_platform">Die Plattform unterstützt Dual-Video nicht</string>
+    <string name="can_not_open_thumbnail_dual_Video">Im Dual-Modus kann Miniaturbild nicht geoeffnet werden</string>
+    <string name="can_not_open_thumbnail_4kVideo">Im 4k1k/4k2k-Modus kann Miniaturbild nicht geoeffnet werden</string>
+    <string name="can_not_open_thumbnail_3DMode">Im 3D-Modus kann Miniaturbild nicht geoeffnet werden</string>
+    <string name="can_not_open_thumbnail_this_platform">Die Plattform unterstützt Miniaturbildfunktion nicht</string>
+    <string name="can_not_open_dual_rotate_mode">Im Rotieren-Modus kann Dual-Video nicht geoeffnet werden Rotate</string>
+    <string name="can_not_open_rotate_dual_mode">Im Dual-View-Modus kann Rotation-Funktion nicht geoeffnet werden Dual View</string>
+    <string name="can_not_open_rotate">Die Plattform unterstützt Rotation-Funktion nicht</string>
+    <string name="can_not_support_aspect_ratio"> Den Proportionalmodus unterstützt das aktuelle Video</string>
+    <string name="subtitle_0_value_1">Externe Untertitel anzeigen</string>
+    <string name="subtitle_0_value_2">Interne Untertitel anzeigen</string>
+    <string name="subtitle_1_value_1">Klicken Sie bitte, den Pfad zu waehlen</string>
+    <string name="subtitle_1_value_2">Es gibt keine externe Untertitel</string>
+    <string name="subtitle_2_value_1">Nichts</string>
+    <string name="subtitle_2_value_2">Untertitel</string>
+    <string name="subtitle_3_value_1">Unbekannt</string>
+    <string name="subtitle_3_value_2">Nichts</string>
+    <string name="subtitle_4_value_1">Default</string>
+    <string name="subtitle_4_value_2">Keine Serife</string>
+    <string name="subtitle_4_value_3">Monospace</string>
+    <string name="subtitle_5_value_1">Groesse</string>
+    <string name="subtitle_5_value_2">Mittel</string>
+    <string name="subtitle_5_value_3">Klein</string>
+    <string name="subtitle_6_value_1">Wei?</string>
+    <string name="subtitle_6_value_2">Schwarz</string>
+    <string name="subtitle_6_value_3">Blau</string>
+    <string name="subtitle_7_value_1">Nein</string>
+    <string name="subtitle_7_value_2">Ja</string>
+    <string name="subtitle_8_value_1">Unterteil des Videobildschirms</string>
+    <string name="subtitle_8_value_2">Oberteil des Videobildschirms</string>
+    <string name="subtitle_9_value">0</string>
+
+    <string-array name="subtitle_setting_opt">
+        <item>Externe Untertitel anzeigen</item>
+        <item>Klicken Sie bitte, den Pfad zu w?hlen</item>
+        <item>Nichts</item>
+        <item>Unbekannt</item>
+        <item>Default</item>
+        <item>Mittel</item>
+        <item>Weiss</item>
+        <item>Nein</item>
+        <item>Unterteil des Videobildschirms</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="subtitle_change_msg">Sie haben externen Untertitel gewaehlt, nur interner Untertitel hat doch die Nummer des Untertitels!</string>
+    <string name="subtitle_change_path">Sie haben internen Untertitel gewaehlt, nur bei externem Untertitel kann der Pfad gewaehlt werden!</string>
+    <string name="choose_time_invalid">Die eingestellte Zeit ist ungültig, bitte versuchen Sie es erneut!</string>
+    <string name="subtitle_change_invalid">Bildunterschrift unterstützt diese Operation nicht!</string>
+    <string name="external_subtitle_setting_operation_invalid">Diese Operation wird nicht unterstützt! überprüfen Sie, ob der Pfad des externen Untertitels eingestellt hat!</string>
+
+    <string-array name="play_setting_opt">
+        <item>oeffnen</item>
+        <item>Schliessen</item>
+        <item>oeffnen</item>
+        <item>Schliessen</item>
+        <item>Schliessen</item>
+        <item></item>
+    </string-array>
+
+	<string name="play_setting_0_value_1">Oeffnen</string>
+	<string name="play_setting_0_value_2">Schliessen</string>
+	<string name="video_size_unknown">Unbekannt</string>
+
+    <string-array name="audio_track_setting_opt">
+        <item>Audiospur1</item>
+        <item>1</item>
+        <item>00:00:00</item>
+        <item>Unbekannt</item>
+        <item>Unbekannt</item>
+        <item>Unbekannt</item>
+        <item>Unbekannt</item>
+    </string-array>
+
+	<string name="audio_track_setting_0_value_1">Audiospur</string>
+	<string name="subtitle_setting_0_value_1">Interne Verbindung</string>
+	<string name="subtitle_setting_0_value_2">Externe Verbindung</string>
+	<string name="matching_subtitle">Untertitel intelligent entsprechen</string>
+	<string name="subtitlelocation"> Position des Untertitels</string>
+	<string name="loading">Laden...</string>
+	<string name="pptplay_anim">Diashow Animation</string>
+	<string name="video_not_exit">Die Videodatei existiert nicht</string>
+	<string name="ppt_pause_promote">Nach dem Anhalt von Diashow klicken Sie auf OK-Taste, fortzufahren</string>
+	<string name="ppt_start_promote">Diashow beginnt, klicken Sie auf OK-Taste, anzuhalten</string>
+	<string name="temp_color">Farbtemperatur</string>
+	<string name="setasdfasdf">Als Hintergrundbild einstellen</string>
+	<string name="defaut_time1">-00:00:00</string>
+	<string name="color_temp">Farbtemperatur</string>
+	<string name="red">Rot</string>
+	<string name="green">Grün</string>
+	<string name="blue">Blau</string>
+	<string name="hrs">Virtueller Raumklang</string>
+	
+</resources>

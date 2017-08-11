@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="picture_mode">
+        <item>สว่าง</item>
+        <item>มาตรฐาน</item>
+        <item>อ่อน</item>
+        <item>@string/nature</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>มาตรฐาน</item>
+        <item>เพลง</item>
+        <item>โรงหนัง</item>
+        <item>ข่าว</item>
+        <item>กลางแจ้ง</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>ปิด</item>
+        <item>เปิด</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>สัดส่วนดั้งเดิม</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>เก็บคำบรรยายบนจอไว้</item>
+        <item>ตัดขอบสีดำช</item>
+        <item>จุดต่อจุด</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>ปิด</item>
+        <item>อัตโนมัติ</item>
+        <item>ขึ้นลง</item>
+        <item>ซ้ายขวา</item>
+        <item>บลูเรย์</item>
+        <item>3Dปรับเป็น2D(ขึ้นลง)</item>
+        <item>3Dปรับเป็น2D(ซ้ายขวา)</item>
+        <item>2Dปรับเป็น3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>หมุนเวียนอัตโนมัติ</item>
+        <item>หมุนเวียนเพลงเดี่ยว</item>
+    </string-array>
+    
+    <string-array name="setting_name">
+        <item>ซ้ำโดยอัตโนมัติ</item>
+        <item>ฟังซ้ำเดี่ยว</item>
+    </string-array>
+	
+	<string-array name="custom_clortemp_values">
+        <item>หนาว</item>
+	    <item>มาตรฐาน</item>
+	    <item>อบอุ่น</item>
+	    <item>ผู้ใช้</item>
+    </string-array>
+</resources>

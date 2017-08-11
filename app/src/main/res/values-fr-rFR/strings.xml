@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_media_error_unknown">Faute inconnue</string>
+    <string name="video_media_error_malformed">Autre faute anormale</string>
+    <string name="video_media_error_io">IO Erreur de lecture et d\'écriture</string>
+    <string name="video_media_error_unsupported">Le système ne supporte pas l\’erreur</string>
+    <string name="video_media_error_format_unsupport">Format non soutenu</string>
+    <string name="video_media_error_not_connected">Erreur de connexion de données</string>
+    <string name="video_media_error_audio_unsupport">Le format d\'Audio est non soutenu</string>
+    <string name="video_media_error_video_unsupport">Ce format de vidéo n’est pas supporté</string>
+    <string name="video_media_error_no_license">Les données émises ne sont pas autorisées</string>
+    <string name="video_media_error_license_expired">L\'autorisation et la licence expirées</string>
+    <string name="video_media_other_error_unknown">Autre erreur inconnue</string>
+    <string name="video_media_error_not_valid">Ce n\’est pas une séquence continue de vidéo valide</string>
+    <string name="video_media_error_server_died">Le serveur du joueur média est coincé</string>
+    <string name="video_media_infor_no_index">Sans index des fichiers de vidéo, impossible de localiser la position de
+        commencement ou de sortir rapidement
+    </string>
+    <string name="video_media_infor_no_index_ab">Sans index dans les fichiers de vidéo, impossible de régler l\'émission
+        répétée AB
+    </string>
+    <string name="video_media_do_forward_info">Ne pas presser trop fréquemment sur Avance rapide, l\'intervalle doit être
+        supérieure à 600ms
+    </string>
+    <string name="subtitle_type">Afficher le type du sous-tire</string>
+    <string name="subtitle_out_path">Chemin de sous-titre externe</string>
+    <string name="subtitle_in_no">Numéro de sous-titre interne</string>
+    <string name="subtitle_language">Langue de sous-titre</string>
+    <string name="subtitle_color">Couleur de sous-titre du texte</string>
+    <string name="subtitle_font">Type de caractère du sous-titre du texte</string>
+    <string name="subtitle_font_size">Taille de sous-titre du texte</string>
+    <string name="subtitle_frame">Ombre du sous-titre du texte</string>
+    <string name="subtitle_area">Position du sous-titre du texte</string>
+    <string name="subtitle_adjust">Réglage de la chronologie du sous-titre</string>
+    <string name="subtitleList">Liste des sous-titres</string>
+    <string name="playList">Liste des émissions</string>
+    <string name="subtitle_setting">Réglage de sous-titre</string>
+    <string name="a_b_section_repeat">Répétition de la section entre la zone A et la zone B</string>
+    <string name="section_replay">Émission répétée de la section</string>
+    <string name="set_begin_a">Régler le point de départ A</string>
+    <string name="set_begin_b">Régler le point de départ B</string>
+    <string name="audio_track_count">Nombre de la piste sonore</string>
+    <string name="audio_track_number">Régler le numéro de la piste sonore</string>
+    <string name="audio_track_duration">Durée totale de la piste sonore</string>
+    <string name="audio_track_language">Langue de la piste sonore</string>
+    <string name="audio_track_setting">Réglage de la piste sonore</string>
+    <string name="point_a">Position du point A</string>
+    <string name="point_b">Position du point B</string>
+    <string name="one_times_speed">1 vitesse</string>
+    <string name="x_times_speed">Vitesse</string>
+    <string name="playing_settings">Réglage d\'émission</string>
+    <string name="open_ab_repeat">Pour émettre par AB, il faut d\'abord ouvrir cette fonction</string>
+    <string name="set_point_a_first">Avant de régler la position du point B, il faut régler d\'abord la position du point A
+    </string>
+    <string name="video_three_d_setting">Réglage 3D</string>
+    <string name="video_3D_none">Fermer</string>
+    <string name="video_3D_side_by_side">Environ</string>
+    <string name="video_3D_top_bottom">Haut et bas</string>
+    <string name="video_3D_frame_packing">Double haute définition</string>
+    <string name="video_3D_line_alternative">Entrelacement</string>
+    <string name="video_3D_2dto3d">De 2D à 3D</string>
+    <string name="video_3D_auto">Automatique</string>
+    <string name="video_3D_check_board">Damier</string>
+    <string name="video_3D_pixel_alternative">Colonne entrelacée</string>
+    <string name="video_3D_frame_alternative">Frame alternatif</string>
+    <string name="video_3D_count">COUNT</string>
+    <string name="video_3D_switch_info">Ne pas commuter trop fréquemment l\'interrupteur 3D</string>
+    <string name="aspect_ratio_16X9">Résolution 16:9</string>
+    <string name="aspect_ratio_4X3">Résolution 4:3</string>
+    <string name="aspect_ratio_default">Résolution automatique par défaut</string>
+    <string name="can_not_open_dual">En mode 3D, on ne peut faire l\'ouverture double 3D</string>
+    <string name="can_not_open_3D">En mode de double ouverture, on ne peut ouvrir 3D</string>
+    <string name="video_start_time">Temps de commencement du vidéo</string>
+    <string name="video_buffer_time">Temps d\'amortissement :</string>
+    <string name="video_first_video_frame_time">Temps du premier frame :</string>
+    <string name="video_breakpoint_play">Continuer l\'émission de la dernière fois ou pas?</string>
+    <string name="video_breakpoint">Emission breakpoint</string>
+    <string name="can_not_open_dual_pip">PIP/POP/En mode de DUALVIEW, on ne peut pas faire la double ouverture</string>
+    <string name="can_not_open_dual_4kVideo">En mode de 4k1k/4k2k, on ne peut pas faire la double ouverture</string>
+
+    <string name="app_name">Emetteur local v2.0</string>
+    <string name="test_str">Merde</string>
+    <string name="default_time">00:00:00</string>
+    <string name="iso_file_cant_play">Impossibilité d\'émettre le fichier ISO</string>
+    <string name="setting_three_d">Préréglage 3D</string>
+    <string name="setting">Prérégler</string>
+    <string name="exit_ok">Valider</string>
+    <string name="exit_cancel">Supprimer</string>
+    <string name="choose_time_failed">Cette fréquence vidéo ne peut pas être positionnée exactement !!</string>
+    <string name="setting_subtitle">Sous-titre</string>
+    <string name="setting_picture_mode">Mode image</string>
+    <string name="setting_voice">Effet audio</string>
+    <string name="setting_audio_track">Trace audio</string>
+    <string name="ok">Valider</string>
+    <string name="cancel">Supprimer</string>
+    <string name="play_list">Enregistrements d\'émission</string>
+    <string name="time_delay">Temporisation</string>
+    <string name="millseconds">MS</string>
+    <string name="no_subtitle">Sans sous-titre</string>
+    <string name="audio_trace_promote">"Trace audio "</string>
+    <string name="inner_subtitle_promote">Sous-titre intérieur</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="days_ago">jours avant</string>
+    <string name="exit_player">Quitter l\'émetteur local？</string>
+    <string name="b_promote">Indication</string>
+    <string name="delete_all">Effacer les enregistrements de regarder</string>
+    <string name="control_prompt">Préréglage par touche menu.Réglage d\'avancement d\'émission par touche gauche-droite.Rappel
+        d\'enregistrements d\'émission par touche haut
+    </string>
+    <string name="setting_play_mode">Mode émission</string>
+    <string name="delete_all_success">Succès de supprimer tous les enregistrements</string>
+    <string name="warning">Avertissement</string>
+    <string name="firm_delete_all_record">Supprimer tous les enregistrements d\'émission？</string>
+    <string name="delete_success">Suppression réussie</string>
+    <string name="delete_current_record">Supprimer cet enregistrement d\'émission？</string>
+    <string name="no_record">Aucunenregistrement d\'émission</string>
+    <string name="delay">Temporisation</string>
+
+    <string name="setting_picture_mode1">Mode image</string>
+    <string name="setting_imageMode_luminance">Luminance</string>
+    <string name="setting_imageMode_contrast">Ratio de contraste</string>
+    <string name="setting_imageMode_chroma">Saturabilité de couleur</string>
+    <string name="setting_imageMode_sharpness">Netteté</string>
+    <string name="setting_imageMode_denoise">Diminution de bruit 3D</string>
+
+
+    <string name="some_promote">Indication</string>
+    <string name="self_define">Autodéfinition</string>
+    <string name="close">Eteindre</string>
+    <string name="open">Allumer</string>
+
+    <string name="setting_picture_zoom">aspect ratio</string>
+    <string name="ppt_play">Diaporama</string>
+    <string name="replace_speed">vitesse de commutation</string>
+    <string name="slow">　Lent</string>
+    <string name="middle">dans</string>
+    <string name="fast">　rapide</string>
+    <string name="no_picture">pas de fichier d\'image</string>
+    <string name="file_not_exit_chk_network">Aucun fichier, veuillez contrôler le réseau</string>
+     <string name="match_subtitle">jumelage intelligent de sous-titre en cours</string>
+    <string name="failedsubtitle">jumelage de sous-titre échoué</string>
+    <string name="loaddowning">jumelage de sous-titre réussi, téléchargement de sous-titre en cours...</string>
+    <string name="choicesubtitle">téléchargement de sous-titre accompli, le premier a été sélectionné, veuillez sélectionner autres sous-titres dans le menu</string>
+    <string name="onechoicesubtitle">téléchargement de sous-titre accompli</string>
+	
+	<!--H1新增翻译-->
+	<string name="no_video_track">non piste audio</string>
+    <string name="audio_codec">code fréquence audio:</string>
+    <string name="video_codec">code vidéo:</string>
+    <string name="duration">durée:</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="choose_time_0">0</string>
+    <string name="choose_time_colon">:</string>
+    <string name="programe_info">information védio</string>
+    <string name="show_info">erreur lecture </string>
+    <string name="buffering">buffer en cours, patientez。。。</string>
+    <string name="playing">lecture en cours</string>
+    <string name="video_subtitle">sous-titre</string>
+    <string name="video_track">piste audio</string>
+    <string name="video_thumbnail_mode">modeThumbnail </string>
+    <string name="video_rotate_mode">mode Rotate</string>
+    <string name="video_channel">piste son</string>
+    <string name="video_media_full_resize">étirer pour plein écran</string>
+    <string name="video_media_play_next">continuer à lire le vidéo suivant？</string>
+    <string name="video_media_default">RP tacite vidéo</string>
+    <string name="video_media_full">plein écran à proportion égale</string>
+    <string name="video_audio_track_switch_info">ne changez pas la piste audio d\'une manière très fréquente!</string>
+    <string name="video_thumbnail_switch_info">ne changez pas le commutateur du modethumbnail  d\'une manière très fréquente!</string>
+    <string name="video_no_support_two_4k">lecture en même temps  deux vidéos 4k n\'est pas disponible.</string>
+    <string name="video_no_support_seamless_dualscreen">lecture sans fente dans le mode double écran n\'est pas disponible!</string>
+    <string name="video_iso_tip">portefeuille ISO illisible</string>
+    <string name="open_file_fail">impossible d\'ouvrir ce fichier! </string>
+    <string name="audio_track_codec">code piste audio</string>
+    <string name="audio_track_channel">piste audio  pist son</string>
+    <string name="audio_track_name">nom piste audio</string>
+    <string name="can_not_open_dual_HEVC_Video">H.265/impossible d\'ouvrir le double décodage dans le mode HEVC</string>
+    <string name="can_not_open_dual_Thumbnail_Video">impossible d\'ouvrir le double décodage dans le mode Thumbnail</string>
+    <string name="can_not_open_dual_this_platform">cette plateforme ne supporte pas le double</string>
+    <string name="can_not_open_thumbnail_dual_Video">impossible d\'ouvrir Thumbnail dans le mode double</string>
+    <string name="can_not_open_thumbnail_4kVideo">impossible d\'ouvrir Thumbnail dnas le mode 4k1k/4k2k</string>
+    <string name="can_not_open_thumbnail_3DMode">impossible d\'ouvrir Thumbnail dnas le mode 3D</string>
+    <string name="can_not_open_thumbnail_this_platform">cette plateforme ne supporte pas la fonction thumbnail</string>
+    <string name="can_not_open_dual_rotate_mode">impossible d\'ouvrir le double décodage dans le mode Rotate</string>
+    <string name="can_not_open_rotate_dual_mode">impossible d\'activer la fonction rotation dans le mode Dual View</string>
+    <string name="can_not_open_rotate">cette plateforme ne supporte pas la fonction rotation</string>
+    <string name="can_not_support_aspect_ratio">vidéo actuelle ne supporte pas le mode proportion</string>
+    <string name="subtitle_0_value_1">afficher les sous-titres externes</string>
+    <string name="subtitle_0_value_2">afficher les sous-titres internes</string>
+    <string name="subtitle_1_value_1">ciliquer et choisir  l\'itinéraire</string>
+    <string name="subtitle_1_value_2">les sous-titres externes n\'existent pas</string>
+    <string name="subtitle_2_value_1">néant</string>
+    <string name="subtitle_2_value_2">sous-titre</string>
+    <string name="subtitle_3_value_1">inconnu</string>
+    <string name="subtitle_3_value_2"></string>
+    <string name="subtitle_4_value_1">tacite</string>
+    <string name="subtitle_4_value_2">sans serif</string>
+    <string name="subtitle_4_value_3">seul espace</string>
+    <string name="subtitle_5_value_1">large</string>
+    <string name="subtitle_5_value_2">moyen</string>
+    <string name="subtitle_5_value_3">petit</string>
+    <string name="subtitle_6_value_1">blanc</string>
+    <string name="subtitle_6_value_2">noir</string>
+    <string name="subtitle_6_value_3">bleu</string>
+    <string name="subtitle_7_value_1">non</string>
+    <string name="subtitle_7_value_2">oui</string>
+    <string name="subtitle_8_value_1">fond image vidéo</string>
+    <string name="subtitle_8_value_2">sommet image vidéo</string>
+    <string name="subtitle_9_value">0</string>
+
+    <string-array name="subtitle_setting_opt">
+        <item>afficher les sous-titres externes</item>
+        <item>cliquer et choisir  l\'itinéraire</item>
+        <item>néant</item>
+        <item>inconnu</item>
+        <item>tacite</item>
+        <item>moyen</item>
+        <item>blanc</item>
+        <item>non</item>
+        <item>fond image vidéo</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="subtitle_change_msg">vous avez choisi le sous-titre externe, seulement le sous-titre interne est doté d\'un code!</string>
+    <string name="subtitle_change_path">vous avez choisi le sous-titre interne, seulement le sous-titre externe peut choisir l\'itinéraire!</string>
+    <string name="choose_time_invalid">l\'heure que vous avez fixée est illégale, veuillez ressayer!</string>
+    <string name="subtitle_change_invalid">le sous-titre en image ne supporte pas cet opération!</string>
+    <string name="external_subtitle_setting_operation_invalid">Ne supporte pas cette opération！veuillez vérifier si vous avez fait un réglage sur l\'itinéraire des sous-titres externes！</string>
+
+    <string-array name="play_setting_opt">
+        <item>allumer</item>
+        <item>éteindre</item>
+        <item>allumer</item>
+        <item>éteindre</item>
+        <item>éteindre</item>
+        <item></item>
+    </string-array>
+
+	<string name="play_setting_0_value_1">allumer</string>
+	<string name="play_setting_0_value_2">éteindre</string>
+	<string name="video_size_unknown">inconnu</string>
+
+    <string-array name="audio_track_setting_opt">
+        <item>piste audio 1</item>
+        <item>1</item>
+        <item>00:00:00</item>
+        <item>inconnu</item>
+        <item>inconnu</item>
+        <item>inconnu</item>
+        <item>inconnu</item>
+    </string-array>
+
+	<string name="audio_track_setting_0_value_1">piste audio</string>
+	<string name="subtitle_setting_0_value_1">interne</string>
+	<string name="subtitle_setting_0_value_2">externe</string>
+	<string name="matching_subtitle">appairage intelliegent sous-titre</string>
+	<string name="subtitlelocation">emplacement sous-titres</string>
+	<string name="loading">chargement en cours...</string>
+	<string name="pptplay_anim">diapositive dessin animé</string>
+	<string name="video_not_exit">vidéo n\'existe pas</string>
+	<string name="ppt_pause_promote">pause diapositive, appuyer la touche OK pour continuer la lecture</string>
+	<string name="ppt_start_promote">lecture diapositive commencée, appuyer la touche OK pour la pause</string>
+	<string name="temp_color">Farbtemperatur</string>
+	<string name="setasdfasdf">pris comme papier pour le mur</string>
+	<string name="defaut_time1">-00:00:00</string>
+	<string name="color_temp">température de couleur</string>
+	<string name="red">rouge</string>
+	<string name="green">vert</string>
+	<string name="blue">bleu</string>
+	<string name="hrs">entour virtuel</string>
+	
+	
+</resources>

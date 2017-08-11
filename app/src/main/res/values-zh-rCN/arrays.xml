@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="video_filter">
+        <!--this is no video file but it may contain some file could play-->
+        <item>.avi</item>
+        <item>.asf</item>
+        <item>.wmv</item>
+        <item>.m2t</item>
+        <item>.mts</item>
+        <item>.ts</item>
+        <item>.mpg</item>
+        <item>.m2p</item>
+        <item>.mp4</item>
+        <item>.flv</item>
+        <item>.swf</item>
+        <item>.vob</item>
+        <item>.mkv</item>
+        <item>.divx</item>
+        <item>.xvid</item>
+        <item>.mov</item>
+        <item>.rmvb</item>
+        <item>.rv</item>
+        <item>.3gp</item>
+        <item>.3g2</item>
+        <item>.dat</item>
+        <item>.pmp</item>
+        <item>.tp</item>
+        <item>.trp</item>
+        <item>.rm</item>
+        <item>.webm</item>
+        <!-- <item>.m2ts</item> -->
+        <item>.ssif</item>
+        <item>.mpeg</item>
+        <item>.mpe</item>
+        <item>.m3u8</item>
+        <item>.m4v</item>
+    </string-array>
+
+    <string-array name="picture_mode">
+        <item>明亮</item>
+        <item>标准</item>
+        <item>柔和</item>
+        <item>@string/nature</item>
+        <item>开灯</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>标准</item>
+        <item>音乐</item>
+        <item>影院</item>
+        <item>新闻</item>
+        <item>户外</item>
+    </string-array>
+<string-array name="imageMode_denoise">
+        <item>关闭</item>
+        <item>弱</item>
+        <item>中</item>
+        <item>强</item>
+        <item>自动</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>原始比例</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>留字幕</item>
+        <item>去黑边</item>
+        <item>点对点</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>关</item>
+       <!--  <item>自动</item> -->
+        <item>上下</item>
+        <item>左右</item>
+        <item>蓝光</item>
+        <item>3D转2D(上下)</item>
+        <item>3D转2D(左右)</item>
+        <item>2D转3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>自动循环</item>
+        <item>单曲循环</item>
+    </string-array>
+
+    <string-array name="setting_name">
+        <item>自动循环</item>
+        <item>单曲循环</item>
+    </string-array>
+
+    <string-array name="photo_filter">
+        <item>.jpe</item>
+        <item>.jpg</item>
+        <item>.jpeg</item>
+        <item>.png</item>
+        <item>.bmp</item>
+        <item>.gif</item>
+        <item>.tiff</item>
+        <!--   <item>.pcx</item> -->
+        <item>.tga</item>
+        <item>.exif</item>
+        <item>.fpx</item>
+        <item>.svg</item>
+        <item>.psd</item>
+        <item>.cdr</item>
+        <item>.pcd</item>
+        <item>.dxf</item>
+        <item>.ufo</item>
+        <item>.eps</item>
+        <item>.raw</item>
+        <item>.mpo</item>
+        <!-- <item>tif</item>> -->
+    </string-array>
+    <string-array name="custom_clortemp_values">
+        <item>冷</item>
+        <item>标准</item>
+        <item>暖</item>
+        <item>用户</item>
+    </string-array>
+    <string-array name="play_modes">
+        <item>循环</item>
+        <item>完成关闭</item>
+    </string-array>
+</resources>

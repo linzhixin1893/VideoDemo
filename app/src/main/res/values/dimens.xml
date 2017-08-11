@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="play_time_size">18sp</dimen>
+    <dimen name="play_left_right_margin">20dp</dimen>
+    <dimen name="play_general_margin">16dp</dimen>
+    <dimen name="setting_text_size">24sp</dimen>
+    <dimen name="setting_title_size">32sp</dimen>
+    <dimen name="setting_text_item_size">24sp</dimen>
+    <dimen name="setting_item_size">48dp</dimen>
+    <dimen name="dlg_icon_size">50dp</dimen>
+    <dimen name="dlg_btn_padding">14dp</dimen>
+    <dimen name="thumnail_default_width">100dp</dimen>
+
+    <!-- base view -->
+    <dimen name="baselist_item_focused_width">1000dp</dimen>
+    <dimen name="baselist_item_focused_height">93dp</dimen>
+    <dimen name="baselist_item_normal_width">1000dp</dimen>
+    <dimen name="baselist_item_normal_height">54dp</dimen>
+</resources>

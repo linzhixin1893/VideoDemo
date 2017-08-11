@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/firstvideolayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/i_s_s" />
+    </LinearLayout>
+
+    <include layout="@layout/i_pause" />
+
+    <include layout="@layout/i_controller" />
+
+    <!-- <include layout="@layout/i_setting"/> -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/trans"
+         >
+
+        <TextView
+            android:id="@+id/video_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/trans_black"
+            android:ellipsize="end"
+            android:paddingBottom="32dp"
+            android:paddingLeft="32dp"
+            android:paddingTop="32dp"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/setting_text_size"
+            android:visibility="gone" />
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/currenttime"
+            android:layout_alignParentRight="true"
+            android:paddingBottom="32dp"
+            android:paddingLeft="32dp"
+            android:paddingTop="32dp"
+            android:paddingRight="64dp"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/setting_title_size"
+            android:visibility="gone"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/containner"
+        android:layout_width="450dp"
+        android:layout_height="match_parent" >
+    </RelativeLayout>
+
+</FrameLayout>

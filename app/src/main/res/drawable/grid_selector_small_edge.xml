@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false" android:state_focused="true">
+        <layer-list>
+
+            <item>
+                <shape>
+                    <corners android:bottomLeftRadius="2.0dip" android:bottomRightRadius="2.0dip"
+                             android:topLeftRadius="2.0dip" android:topRightRadius="2.0dip"/>
+
+                    <size android:width="112dp" android:height="160dp"/>
+                    <solid android:color="#00ffffff"/>
+                    <stroke android:color="#9900ffff" android:width="3dp"/>
+
+                </shape>
+            </item>
+
+        </layer-list>
+    </item>
+    <item android:state_pressed="true" android:state_focused="true">
+        <layer-list>
+
+            <item>
+                <shape>
+                    <corners android:bottomLeftRadius="2.0dip" android:bottomRightRadius="2.0dip"
+                             android:topLeftRadius="2.0dip" android:topRightRadius="2.0dip"/>
+
+                    <size android:width="112dp" android:height="160dp"/>
+                    <solid android:color="#00ffffff"/>
+                    <stroke android:color="#ff00ffff" android:width="3dp"/>
+
+                </shape>
+            </item>
+
+        </layer-list>
+    </item>
+    <item android:state_pressed="true" android:state_focused="false">
+        <layer-list>
+
+            <item>
+                <shape>
+                    <corners android:bottomLeftRadius="2.0dip" android:bottomRightRadius="2.0dip"
+                             android:topLeftRadius="2.0dip" android:topRightRadius="2.0dip"/>
+
+                    <size android:width="112dp" android:height="160dp"/>
+                    <solid android:color="#00ffffff"/>
+                    <stroke android:color="#ff00ffff" android:width="3dp"/>
+
+                </shape>
+            </item>
+
+        </layer-list>
+    </item>
+</selector>

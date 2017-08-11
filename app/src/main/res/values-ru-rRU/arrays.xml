@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="picture_mode">
+        <item>яркий</item>
+        <item>стандарт</item>
+        <item>мягкий</item>
+        <item>@string/nature</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>стандарт</item>
+        <item>музыка</item>
+        <item>кинотеатр</item>
+        <item>новости</item>
+        <item>на воздухе</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>выключить</item>
+        <item>включить</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>оригинальный масштаб</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>оставить титр</item>
+        <item>удалить черный край</item>
+        <item>точка к точке</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>выключить</item>
+        <item>автоматический</item>
+        <item>сверху донизу</item>
+        <item>левый и правый</item>
+        <item>синий свет</item>
+        <item>3D в 2D(сверху донизу)</item>
+        <item>3D в 2D(справа налево)</item>
+        <item>2D в 3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>автоматическая циркуляция</item>
+        <item>циркуляция единой музыки</item>
+    </string-array>
+    <string-array name="setting_name">
+        <item>автоматический цикл</item>
+        <item>одномузыковый цикл</item>
+    </string-array>
+	
+	<string-array name="custom_clortemp_values">
+        <item>Холодый</item>
+	    <item>Стандарт</item>
+	    <item>Теплый</item>
+	    <item>Клиент</item>
+    </string-array>
+</resources>

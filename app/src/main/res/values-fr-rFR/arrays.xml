@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="picture_mode">
+        <item>Lumineux</item>
+        <item>Standard</item>
+        <item>Doux</item>
+        <item>@string/nature</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>Standard</item>
+        <item>Musique</item>
+        <item>Cinéma</item>
+        <item>Aactualités</item>
+        <item>Extérieur</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>Eteindre</item>
+        <item>Allumer</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>Echelle originale</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>Conserver le sous-titre</item>
+        <item>Eliminer les bords noirs</item>
+        <item>Point à point</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>Eteindre</item>
+        <item>Automatique</item>
+        <item>Haut-bas</item>
+        <item>Gauche-droite</item>
+        <item>Lumière bleue</item>
+        <item>Transformation de 3D en 2D (haut-bas)</item>
+        <item>Transformation de 3D en 2D (gauche-droite)</item>
+        <item>Transformation de 2D en 3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Circulation automatique</item>
+        <item>Circulation par chanson unique</item>
+    </string-array>
+    
+    <string-array name="setting_name">
+        <item>Circulation automatique</item>
+        <item>Circulation d\'une seule chanson</item>
+    </string-array>
+	
+	<string-array name="custom_clortemp_values">
+        <item>froid</item>
+	    <item>standard</item>
+	    <item>tiède</item>
+	    <item>utilisateur</item>
+    </string-array>
+</resources>

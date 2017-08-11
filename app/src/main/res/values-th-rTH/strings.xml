@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_media_error_unknown">สื่อวิดีโอผิดพลาด ไม่รู้จัก</string>
+    <string name="video_media_error_malformed">สื่อวิดีโอผิดพลาด รูปแบบผิด</string>
+    <string name="video_media_error_io">สื่อวิดีโอผิดพลาด ข้อมูลเข้า-ออก</string>
+    <string name="video_media_error_unsupported">สื่อวิดีโอผิดพลาด ไม่รองรับ</string>
+    <string name="video_media_error_format_unsupport">สื่อวิดีโอผิดพลาด ไม่รองรับรูปแบบ</string>
+    <string name="video_media_error_not_connected">สื่อวิดีโอผิดพลาด ไม่ได้เชื่อมต่อ</string>
+    <string name="video_media_error_audio_unsupport">สื่อวิดีโอผิดพลาด ไม่รองรับเสียง</string>
+    <string name="video_media_error_video_unsupport">สื่อวิดีโอผิดพลาด ไม่รองรับวีดีโอ</string>
+    <string name="video_media_error_no_license">สื่อวิดีโอผิดพลาด ไม่มีใบอนุญาต</string>
+    <string name="video_media_error_license_expired">สื่อวิดีโอผิดพลาด ใบอนุญาตหมดอายุ</string>
+    <string name="video_media_other_error_unknown">ข้อผิดพลาดอื่นๆ ที่ไม่รู้จัก</string>
+    <string name="video_media_error_not_valid">สื่อวิดีโอผิดพลาด ใช้ไม่ได</string>
+    <string name="video_media_error_server_died">เซิร์ฟเวอร์สื่อหยุดทำงาน</string>
+    <string name="video_media_infor_no_index">ไม่มีดัชนีวิดีโอ ค้นหาไม่ได</string>
+    <string name="video_media_infor_no_index_ab">ไม่มีดัชนีวิดีโอ ไม่ได้ตั้งค่า AB</string>
+    <string name="video_media_do_forward_info">โปรดอย่าเลื่อนหน้าบ่อยๆ! ช่วงเวลาควรจะมากกว่า 600 มิลลิวินาที</string>
+    <string name="subtitle_type">ประเภทคำบรรยาย</string>
+    <string name="subtitle_out_path">นอกเส้นทางคำบรรยาย</string>
+    <string name="subtitle_in_no">ไม่มีคำบรรยาย</string>
+    <string name="subtitle_language">ภาษาคำบรรยาย</string>
+    <string name="subtitle_color">สีคำบรรยาย</string>
+    <string name="subtitle_font">แบบตัวอักษรคำบรรยาย</string>
+    <string name="subtitle_font_size">ขนาดตัวอักษรคำบรรยาย</string>
+    <string name="subtitle_frame">เงาคำบรรยาย</string>
+    <string name="subtitle_area">พื้นที่คำบรรยาย</string>
+    <string name="subtitle_adjust">ปรับคำบรรยาย</string>
+    <string name="subtitleList">รายการคำบรรยาย</string>
+    <string name="playList">รายการเล่น</string>
+    <string name="subtitle_setting">การตั้งค่าคำบรรยาย</string>
+    <string name="a_b_section_repeat">ทำซ้ำส่วน A-B</string>
+    <string name="section_replay">ส่วนที่เล่นอีก</string>
+    <string name="set_begin_a">ตั้งจุดเริ่มต้น A</string>
+    <string name="set_begin_b">ตั้งจุดเริ่มต้น B</string>
+    <string name="audio_track_count">การนับร่องเสียง</string>
+    <string name="audio_track_number">จำนวนร่องเสียง</string>
+    <string name="audio_track_duration">ระยะเวลาร่องเสียง</string>
+    <string name="audio_track_language">ภาษาร่องเสียง</string>
+    <string name="audio_track_setting">การตั้งค่าร่องเสียง</string>
+    <string name="point_a">ตำแหน่งจุด A</string>
+    <string name="point_b">ตำแหน่งจุด B</string>
+    <string name="one_times_speed">ความเร็ว 1 เท่า</string>
+    <string name="x_times_speed">เท่าความเร็ว</string>
+    <string name="playing_settings">ตั้งค่าการเล่น</string>
+    <string name="open_ab_repeat">เปิด A-B ซ้ำ</string>
+    <string name="set_point_a_first">ตั้งตำแหน่งจุด A ก่อน</string>
+    <string name="video_three_d_setting">ตั้งค่าวิดีโอ 3 มิติ</string>
+    <string name="video_3D_none">ปิด</string>
+    <string name="video_3D_side_by_side">SBS</string>
+    <string name="video_3D_top_bottom">TB</string>
+    <string name="video_3D_frame_packing">FP</string>
+    <string name="video_3D_line_alternative">LA</string>
+    <string name="video_3D_2dto3d">2D-3D</string>
+    <string name="video_3D_auto">อัตโนมัต</string>
+    <string name="video_3D_check_board">CB</string>
+    <string name="video_3D_pixel_alternative">PA</string>
+    <string name="video_3D_frame_alternative">FA</string>
+    <string name="video_3D_count">COUNT</string>
+    <string name="video_3D_switch_info">โปรดอย่าเปิด/ปิด 3 มิติ บ่อยๆ!</string>
+    <string name="aspect_ratio_16X9">อัตราส่วนจอภาพ 16:9</string>
+    <string name="aspect_ratio_4X3">อัตราส่วนจอภาพ 4:3</string>
+    <string name="aspect_ratio_default">อัตราส่วนจอภาพ ค่าเริ่มต้น</string>
+    <string name="can_not_open_dual">เปิดการถอดรหัสคู่ในภาวะ 3 มิติ ไม่ได้</string>
+    <string name="can_not_open_3D">เปิด 3 มิติ ในภาวะการถอดรหัสคู่ไม่ได้</string>
+    <string name="video_start_time">เวลาเริ่มต้นวิดีโอ</string>
+    <string name="video_buffer_time">เวลาพักข้อมูล:</string>
+    <string name="video_first_video_frame_time">เวลาที่กดกรอบแรก:</string>
+    <string name="video_breakpoint_play">ข้ามไปที่การเล่นล่าสุด?</string>
+    <string name="video_breakpoint">เล่นจุดพัก</string>
+    <string name="can_not_open_dual_pip">เปิดการถอดรหัสคู่ในภาวะ PIP/POP/DualView ไม่ได</string>
+    <string name="can_not_open_dual_4kVideo">เปิดการถอดรหัสคู่ในภาวะ 4k1k/4k2k ไม่ได</string>
+    <string name="video_divx_title">ชื่อเรื่อง</string>
+    <string name="video_divx_edition">ฉบับ</string>
+    <string name="video_divx_chapter">ส่วนสำตัญ</string>
+    <string name="video_divx_autochapter">ส่วนสำคัญอัตโนมัติ</string>
+    <string name="video_divx_title_resume">เริ่มต้น DivX ใหม่</string>
+    <string name="video_divx_resume">กำลังเริ่มใหม่จากที่คุณหยุดในการเล่นล่าสุด?</string>
+    <string name="video_divx_vod">DivX(R) VOD</string>
+    <string name="divx_vod_drm_register">คุณต้องลงทะเบียนอุปกรณ์ของคุณเพื่อเล่นวิดีโอ DivX ที่ถูกป้องกัน</string>
+    <string name="divx_vod_drm_registration_code">รหัสลงทะเบียน:</string>
+    <string name="divx_vod_drm_register_at">ลงทะเบียนที</string>
+    <string name="divx_vod_drm_deregistration_confirm">อุปกรณ์ของคุณลงทะเบียนแล้ว \ n \ n คุณแน่ใจจะยกเลิกการลงทะเบียนหรือ?
+    </string>
+    <string name="divx_vod_drm_deregistration_code">รหัสยกเลิกการลงทะเบียน:</string>
+    <string name="divx_vod_drm_deregister_at">ยกเลิกลงทะเบียนที</string>
+    <string name="divx_vod_drm_deregister">ดำเนินการลงทะเบียนต่อ?</string>
+    <string name="divx_vod_drm_authorization_error">อุปกรณ์ของคุณไม่ได้รับอนุญาตให้เล่นวีดีโอ DivX ที่ถูกป้องกันนี</string>
+    <string name="divx_vod_drm_rental">การเช่า DivX นี้ถูกใช้แล้ว</string>
+    <string name="divx_vod_drm_views">มุมมอง</string>
+    <string name="divx_vod_drm_rental_expired">DivX ที่เช่านี้หมดอายุแล้ว</string>
+    <string name="divx_vod_drm_rental_confirm">ดำเนินการต่อ?</string>
+    <string name="divx_vod_drm_unauthorized_version">รุ่น DivX DRM ไม่ได้รับอนุญาต</string>
+    <string name="divx_vod_drm_unauthorized_video">วิดีโอไม่ได้รับอนุญาต โปรดลองอินเตอร์เฟซอื่น</string>
+    <string name="video_divx_vod_url">http://vod.divx.com</string>
+    <string name="app_name">Playersท้องถิ่นv2.0</string>
+    <string name="test_str">cao ni ma de dan</string>
+    <string name="iso_file_cant_play">ไฟล์ISOเปิดไม่ได้</string>
+    <string name="setting_three_d">ตั้งค่า3D</string>
+    <string name="setting">ตั้งค่า</string>
+    <string name="exit_ok">ยืนยัน</string>
+    <string name="exit_cancel">ยกเลิก</string>
+    <string name="choose_time_failed">จำกัดตำแหน่งวีดีโอนี้อย่างแม่นยำไม่ได้!!</string>
+    <string name="setting_subtitle">คำบรรยายบนจอ</string>
+    <string name="setting_picture_mode">โหมดภาพ</string>
+    <string name="setting_voice">ซาวด์เอฟเฟกต์</string>
+    <string name="setting_audio_track">แทร็กเสียง</string>
+    <string name="ok">ยืนยัน</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="play_list">ประวัติการฉาย</string>
+    <string name="time_delay">เลื่อนเวลา</string>
+    <string name="millseconds">MS</string>
+    <string name="no_subtitle">ไมมีคำบรรยายบนจอ</string>
+    <string name="audio_trace_promote">"แทร็กเสียง "</string>
+    <string name="inner_subtitle_promote">บันทึกคำบรรยายบนจอภายใน</string>
+    <string name="today">วันนี้</string>
+    <string name="days_ago">_วันก่อน</string>
+    <string name="exit_player">ยืนยันออกจากPlayersท้องถิ่น？</string>
+    <string name="b_promote">เตือน</string>
+    <string name="delete_all">ลบประวัติการดู</string>
+    <string name="control_prompt">ปุ่มเมนูดำเนินการตั้งค่าการฉาย ปุ่มซ้ายขวาดำเนินการปรับความคืบหน้าในการฉาย
+        ปุ่มบนเรียกประวัติการฉาย
+    </string>
+    <string name="setting_play_mode">โหมดการฉาย</string>
+    <string name="delete_all_success">ลบประวัติทั้งหมดสำเร็จ</string>
+    <string name="warning">เตือน</string>
+    <string name="firm_delete_all_record">ลบประวัติการฉายทั้งหมดหรือ？</string>
+    <string name="delete_success">ลบสำเร็จ</string>
+    <string name="delete_current_record">ลบประวัติการฉายข้อนี้หรือ？</string>
+    <string name="no_record">ไม่มีประวัติการฉาย</string>
+    <string name="delay">เลื่อนเวลา</string>
+    <string name="setting_picture_mode1">โหมดรูปภาพ</string>
+    <string name="setting_imageMode_luminance">ความสว่าง</string>
+    <string name="setting_imageMode_contrast">คอนทราซท์ เรโช</string>
+    <string name="setting_imageMode_chroma">ความอิ่มตัวสี</string>
+    <string name="setting_imageMode_sharpness">ความคมชัด</string>
+    <string name="setting_imageMode_denoise">ลดเสียงรบกวน3D</string>
+    <string name="some_promote">เตือน</string>
+    <string name="self_define">ตั้งค่าเอง</string>
+    <string name="close">ปิด</string>
+    <string name="open">เปิด</string>
+    <string name="setting_picture_zoom">อัตราส่วน</string>
+    <string name="ppt_play">สไลด์</string>
+    <string name="replace_speed">เปลี่ยนความเร็ว</string>
+    <string name="slow">ช้า</string>
+    <string name="middle">ใน</string>
+    <string name="fast">รวดเร็ว</string>
+    <string name="no_picture">ไฟล์ภาพไม่</string>
+    <string name="file_not_exit_chk_network">ค้นหาเอกสารนี้ไม่สำเร็จ，ตรวจสอบเครือข่าย</string>
+    <string name="default_time">--:--:--</string>
+    <string name="match_subtitle">กำลังจับคู่คำบรรยายอย่างสมาร์ท</string>
+    <string name="failedsubtitle">ล้มเหลวในการจับคู่คำบรรยาย</string>
+    <string name="loaddowning">การจับคู่คำบรรยายสำเร็จแล้ว กำลังดาวน์โหลดคำบรรยาย...</string>
+    <string name="choicesubtitle">การดาวน์โหลดคำบรรยายเรียบร้อยแล้ว ได้เลือกที่แรกแล้ว กรุณาเลือกคำบรรยายอื่นในเมนู幕</string>
+    <string name="onechoicesubtitle">การดาวน์โหลดคำบรรยายเรียบร้อยแล้ว </string>
+	
+	<!--H1翻译添加-->
+	<string name="no_video_track">ไม่มีร่องเสียง</string>
+    <string name="audio_codec">รหัสเสียง:</string>
+    <string name="video_codec">รหัสวีดีโอ:</string>
+    <string name="duration">ระยะเวลา:</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="choose_time_0">0</string>
+    <string name="choose_time_colon">:</string>
+    <string name="programe_info">ข้อมูลวีดีโอ</string>
+    <string name="show_info">การเล่นขัดข้อง </string>
+    <string name="buffering">กำลังโหลดวีดีโอนี้ กรุณารอสักครู่</string>
+    <string name="playing">กำลังเล่น</string>
+    <string name="video_subtitle">ซับไตเติ้ล</string>
+    <string name="video_track">ร่องเสียง</string>
+    <string name="video_thumbnail_mode">โหมดThumbnail</string>
+    <string name="video_rotate_mode">โหมดRotate</string>
+    <string name="video_channel">ช่องทางเสียง</string>
+    <string name="video_media_full_resize">ขยายวีดีโอให้เต็มจอ</string>
+    <string name="video_media_play_next">เล่นวีดีโอต่อไป？</string>
+    <string name="video_media_default">ค่าเริ่มต้นของความละเอียดวีดีโอ</string>
+    <string name="video_media_full">ขยายวีดีโอให้เต็มจอตามสัดส่วนเท่ากัน</string>
+    <string name="video_audio_track_switch_info">โปรดอย่าสลับร่องเสียงถี่ไป!</string>
+    <string name="video_thumbnail_switch_info">โปรดอย่าสลับโหมดthumbnailถี่ไป!</string>
+    <string name="video_no_support_two_4k">ไม่สนับสนุนการเล่นสองวีดีโอ4kพร้อมกัน</string>
+    <string name="video_no_support_seamless_dualscreen">ไม่สนับสนุนการเล่นต่อกันในโหมดสองจอ!</string>
+    <string name="video_iso_tip">ไม่สนับสนุนไฟล์ISO</string>
+    <string name="open_file_fail">เปิดไฟล์นี้ไม่ได้! </string>
+    <string name="audio_track_codec">รหัสร่องเสียง</string>
+    <string name="audio_track_channel">ช่องทางเสียง</string>
+    <string name="audio_track_name">ชื่อร่องเสียง</string>
+    <string name="can_not_open_dual_HEVC_Video">การถอดรหัสแบบคู่ในโหมดH.265/HEVCไม่ได้</string>
+    <string name="can_not_open_dual_Thumbnail_Video">การถอดรหัสแบบคู่ในโหมดThumbnailไม่ได้</string>
+    <string name="can_not_open_dual_this_platform">แพลตฟอร์มนี้ไม่สนับสนุ่นการถอดรหัสแบบคู่</string>
+    <string name="can_not_open_thumbnail_dual_Video">ในโหมดการถอดรหัสแบบคู่เปิดThumbnailไม่ได้</string>
+    <string name="can_not_open_thumbnail_4kVideo">ในโหมด4k1k/4k2kเปิดThumbnailไม่ได้</string>
+    <string name="can_not_open_thumbnail_3DMode">ในโหมด3DเปิดThumbnailไม่ได้</string>
+    <string name="can_not_open_thumbnail_this_platform">แพลตฟอร์มนี้ไม่สนับสนุ่นฟังก์ชั่นthumbnail</string>
+    <string name="can_not_open_dual_rotate_mode">การถอดรหัสแบบคู่ในโหมดRotateไมได้</string>
+    <string name="can_not_open_rotate_dual_mode">ในโหมดDual Viewเปิดฟังก์ชั่นการหมุนไม่ได้</string>
+    <string name="can_not_open_rotate">แพลตฟอร์มนี้ไม่สนับสนุ่นฟังก์ชั่นการหมุน</string>
+    <string name="can_not_support_aspect_ratio">วีดีโอนี้ไม่สนับสนุนโหมดอัตรากว้างยาว</string>
+    <string name="subtitle_0_value_1">แสดงซับภายนอก</string>
+    <string name="subtitle_0_value_2">แสดงซับภายใน</string>
+    <string name="subtitle_1_value_1">คลิกเลือกเส้นทาง</string>
+    <string name="subtitle_1_value_2">ไม่มีซับภายนอก</string>
+    <string name="subtitle_2_value_1">ไม่มี</string>
+    <string name="subtitle_2_value_2">ซับ</string>
+    <string name="subtitle_3_value_1">ไม่ปรากฏ</string>
+    <string name="subtitle_3_value_2">ไม่มี</string>
+    <string name="subtitle_4_value_1">ค่าเริ่มต้น</string>
+    <string name="subtitle_4_value_2">ไม่มีแซนเซอริฟ</string>
+    <string name="subtitle_4_value_3">monospace</string>
+    <string name="subtitle_5_value_1">ใหญ่</string>
+    <string name="subtitle_5_value_2">กลาง</string>
+    <string name="subtitle_5_value_3">เล็ก</string>
+    <string name="subtitle_6_value_1">ขาว</string>
+    <string name="subtitle_6_value_2">ดำ</string>
+    <string name="subtitle_6_value_3">ฟ้า</string>
+    <string name="subtitle_7_value_1">ไม่ใช่</string>
+    <string name="subtitle_7_value_2">ใช่</string>
+    <string name="subtitle_8_value_1">ด้านล่างวีดีโอ</string>
+    <string name="subtitle_8_value_2">ด้านบนวีดีโอ</string>
+    <string name="subtitle_9_value">0</string>
+
+    <string-array name="subtitle_setting_opt">
+        <item>แสดงซับภายนอก</item>
+        <item>คลิกเลือกเส้นทาง</item>
+        <item>ไม่มี</item>
+        <item>ไม่ปรากฏ</item>
+        <item>ค่าเริ่มต้น</item>
+        <item>กลาง</item>
+        <item>ขาว</item>
+        <item>ไม่ใช่</item>
+        <item>ด้านล่างวีดีโอ</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="subtitle_change_msg">คุณเลือกซับภายนอก ต้องเป็นซับภายในถึงมีหมายเลขซับ!</string>
+    <string name="subtitle_change_path">คุณเลือกซับภายใน ต้องเป็นซับภายนอกถึงเลือกเส้นทางได้!</string>
+    <string name="choose_time_invalid">คุณตั้งค่าเวลาไม่ถูกต้อง กรุณาตั้งใหม่!</string>
+    <string name="subtitle_change_invalid">ซับไตเติ้ลไม่สนับสนุนการดำเนินการนี้!</string>
+    <string name="external_subtitle_setting_operation_invalid">ไม่สนับสนุนการดำเนินการนี้！โปรดตรวจสอบได้ตั้งค่าเส้นทางของซับภายนอกแล้ว！</string>
+
+    <string-array name="play_setting_opt">
+        <item>เปิด</item>
+        <item>ปิด</item>
+        <item>เปิด</item>
+        <item>ปิด</item>
+        <item>ปิด</item>
+        <item></item>
+    </string-array>
+
+	<string name="play_setting_0_value_1">เปิด</string>
+	<string name="play_setting_0_value_2">ปิด</string>
+	<string name="video_size_unknown">ไม่ปรากฏ</string>
+
+    <string-array name="audio_track_setting_opt">
+        <item>ร่องเสียง 1</item>
+        <item>1</item>
+        <item>00:00:00</item>
+        <item>ไม่ปรากฏ</item>
+        <item>ไม่ปรากฏ</item>
+        <item>ไม่ปรากฏ</item>
+        <item>ไม่ปรากฏ</item>
+    </string-array>
+
+	<string name="audio_track_setting_0_value_1">ร่องเสียง</string>
+	<string name="subtitle_setting_0_value_1">ภายใน</string>
+	<string name="subtitle_setting_0_value_2">ภายนอก</string>
+	<string name="matching_subtitle">การเข้ากับซับแบบอัจฉริยะ</string>
+	<string name="subtitlelocation">ตำแหน่งซับไตเติ้ล</string>
+	<string name="loading">โหลดดิ้ง...</string>
+	<string name="pptplay_anim">ภาพเคลื่อนไหวบนสไลด์</string>
+	<string name="video_not_exit">ไม่พบไฟล์วีดีโอ</string>
+	<string name="ppt_pause_promote">หยุดฉายสไลด์ กดปุ่มOKเพื่อฉายต่อ</string>
+	<string name="ppt_start_promote">เริ่มฉายสไลด์ กดปุ่มOKเพื่อหยุด</string>
+	<string name="temp_color">อุณหภูมิสี</string>
+	<string name="setasdfasdf">ตั้งเป็นวอลล์เปเปอร์</string>
+	<string name="defaut_time1">-00:00:00</string>
+	<string name="color_temp">อุณหภูมิสี</string>
+	<string name="red">แดง</string>
+	<string name="green">เขียว</string>
+	<string name="blue">ฟ้า</string>
+	<string name="hrs">จำลองเสียงรอบทิศทาง</string>
+	
+	
+</resources>

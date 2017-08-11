@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="picture_mode">
+        <item>Claro</item>
+        <item>Padrão</item>
+        <item>Suave</item>
+        <item>@string/nature</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>Padrão</item>
+        <item>Música</item>
+        <item>Cinema</item>
+        <item>Notícia</item>
+        <item>Ao ar livre</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>Fechar</item>
+        <item>Abrir</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>Proporção original</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>Legenda reservada</item>
+        <item>Remover o lado preto</item>
+        <item>Ponto ao ponto</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>Fechar</item>
+        <item>Automático</item>
+        <item>Para cima e para baixo</item>
+        <item>Para esquerda e para direito</item>
+        <item>Luz azul</item>
+        <item>3D transformado em 2D (para cima e para baixo)</item>
+        <item>3D transformado em 2D (para esquerda e para direita)</item>
+        <item>2D transformado em 3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Circulação automática</item>
+        <item>Ciclo único</item>
+    </string-array>
+    <string-array name="setting_name">
+        <item>ciclo automático</item>
+        <item>ciclo único</item>
+    </string-array>
+	
+	<string-array name="custom_clortemp_values">
+        <item>Frio</item>
+	    <item>Padrão</item>
+	    <item>Calor</item>
+	    <item>Utente</item>
+    </string-array>
+</resources>

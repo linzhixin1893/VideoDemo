@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="horizontal"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:clickable="false"
+                android:layout_margin="6dp"
+                android:padding="3dp"
+                android:background="@drawable/rect_shape_trans"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="112dp"
+                android:layout_height="160dp">
+
+    <ImageView
+            android:id="@+id/poster_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            tools:background="@drawable/add"
+            android:background="@drawable/add"
+            android:focusable="false"
+            android:gravity="center"
+            android:focusableInTouchMode="false"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

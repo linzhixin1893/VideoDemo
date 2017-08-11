@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:focusable="true"
+              android:focusableInTouchMode="true"
+              android:clickable="true"
+              android:padding="8dp"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="300dp"
+              android:paddingRight="32dp"
+              android:layout_height="180dp">
+
+    <FrameLayout android:layout_width="130dp"
+                 android:layout_height="180dp">
+
+        <ImageView
+                android:layout_width="130dp"
+                android:layout_height="180dp"
+                android:id="@+id/posterSelected_iv"
+                android:focusable="false"
+                tools:background="@color/red"
+                android:focusableInTouchMode="false"/>
+
+        <ImageView
+                android:id="@+id/poster_iv"
+                android:layout_width="112dp"
+                android:layout_height="180.5dp"
+                android:layout_marginLeft="9dp"
+                android:scaleType="centerCrop"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                tools:background="@drawable/ic_movie_default"
+                android:focusable="false"
+                android:gravity="center"
+                android:focusableInTouchMode="false"/>
+    </FrameLayout>
+    <!--
+      <ImageView
+
+      android:id="@+id/poster_iv"
+                android:layout_width="112dp"
+                android:layout_height="160.5dp"
+                android:scaleType="centerCrop"
+                android:paddingBottom="10dp"
+                android:paddingTop="15dp"
+                tools:background="@drawable/ic_movie_default"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_gravity="center"
+
+
+                    android:id="@+id/poster_iv"
+                    android:layout_width="112dp"
+                    android:layout_height="180.5dp"
+                    android:layout_marginLeft="9dp"
+                    android:scaleType="centerCrop"
+                    android:paddingBottom="10dp"
+                    android:paddingTop="10dp"
+                    android:background="@drawable/ic_movie_default"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    />-->
+    <LinearLayout
+            android:layout_marginLeft="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <FrameLayout android:layout_width="wrap_content"
+                     android:layout_height="wrap_content">
+
+            <ProgressBar
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:layout_width="130dp"
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/play_progress"
+                    android:layout_height="wrap_content"
+                    style="@style/progress_style"
+                    android:progress="40"/>
+
+            <TextView style="@style/setting_text_style"
+                      android:text="@string/test_str"
+                      android:layout_width="130dp"
+                      android:layout_marginTop="5dp"
+                      android:layout_height="wrap_content"
+                      android:focusable="false"
+                      android:gravity="center"
+                      android:textSize="16sp"
+                      android:focusableInTouchMode="false"
+                      android:id="@+id/time_tv"
+                      android:singleLine="true"
+                      android:ellipsize="end"/>
+
+        </FrameLayout>
+
+        <TextView style="@style/setting_text_style"
+                  android:layout_marginTop="20dp"
+                  android:focusable="false"
+                  android:lines="3"
+                  android:focusableInTouchMode="false"
+                  android:layout_width="120dp"
+                  android:ellipsize="end"
+                  android:textSize="18sp"
+                  android:id="@+id/name_tv"
+                  android:text="@string/app_name"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_media_error_unknown">неизвестная ошибка</string>
+    <string name="video_media_error_malformed">прочие ошибки</string>
+    <string name="video_media_error_io">ошибка чтения IO</string>
+    <string name="video_media_error_unsupported">система не поддерживает</string>
+    <string name="video_media_error_format_unsupport">формат не поддерживается</string>
+    <string name="video_media_error_not_connected">ошибка соединения данных</string>
+    <string name="video_media_error_audio_unsupport">формат аудио не поддерживается</string>
+    <string name="video_media_error_video_unsupport">видеоформат не поддерживается</string>
+    <string name="video_media_error_no_license">недостаточно полномочий для воспроизведения данных</string>
+    <string name="video_media_error_license_expired">лицензия просрочена</string>
+    <string name="video_media_other_error_unknown">неизвестная ошибка</string>
+    <string name="video_media_error_not_valid">недействительная видео очередь</string>
+    <string name="video_media_error_server_died">ошибка сервера медиа проигрывателя</string>
+    <string name="video_media_infor_no_index">невозможно индексировать видеофайл, нельзя начать расположение или перемотку
+    </string>
+    <string name="video_media_infor_no_index_ab">невозможно индексировать видео файл, нельзя установить повторное
+        воспроизведение AB
+    </string>
+    <string name="video_media_do_forward_info">Не перематывайте слишком часто, интервал должен быть более 600 микросекунд
+    </string>
+    <string name="subtitle_type">отобразить тип субтитров</string>
+    <string name="subtitle_out_path">внешний путь к субтитрам</string>
+    <string name="subtitle_in_no">внутренняя кодировка субтитров</string>
+    <string name="subtitle_language">язык субтитров</string>
+    <string name="subtitle_color">цвет субтитров</string>
+    <string name="subtitle_font">шрифт субтитров</string>
+    <string name="subtitle_font_size">размер субтитров</string>
+    <string name="subtitle_frame">тень</string>
+    <string name="subtitle_area">расположение текста</string>
+    <string name="subtitle_adjust">настройка временной шкалы субтитров</string>
+    <string name="subtitleList">список субтитров</string>
+    <string name="playList">список воспроизведения</string>
+    <string name="subtitle_setting">настройка субтитров</string>
+    <string name="a_b_section_repeat">повтор отрезка A-B</string>
+    <string name="section_replay">повторное воспроизведение отрезка</string>
+    <string name="set_begin_a">настройка начальной точки A</string>
+    <string name="set_begin_b">настройка начальной точки B</string>
+    <string name="audio_track_count">количество треков</string>
+    <string name="audio_track_number">настройка кодировки треков</string>
+    <string name="audio_track_duration">общая продолжительностьтреков</string>
+    <string name="audio_track_language">язык треков</string>
+    <string name="audio_track_setting">настройка треков</string>
+    <string name="point_a">настройка точки A</string>
+    <string name="point_b">настройка точки B</string>
+    <string name="one_times_speed">1 кратная скорость</string>
+    <string name="x_times_speed">кратная скорость</string>
+    <string name="playing_settings">настройка</string>
+    <string name="open_ab_repeat">для воспроизведения AB нужно включить данную функцию</string>
+    <string name="set_point_a_first">прежде чем установить положение точки B нужно установить положение точки</string>
+    <string name="video_three_d_setting">настройка 3D</string>
+    <string name="video_3D_none">закрыть</string>
+    <string name="video_3D_side_by_side">влево вправо</string>
+    <string name="video_3D_top_bottom">вверх вниз</string>
+    <string name="video_3D_frame_packing">double HD</string>
+    <string name="video_3D_line_alternative">переплетение строки</string>
+    <string name="video_3D_2dto3d">2D в 3D</string>
+    <string name="video_3D_auto">автоматический</string>
+    <string name="video_3D_check_board">шахматные клетки</string>
+    <string name="video_3D_pixel_alternative">смешивание списков</string>
+    <string name="video_3D_frame_alternative">смена</string>
+    <string name="video_3D_count">COUNT</string>
+    <string name="video_3D_switch_info">Не надо слишком часто переключать 3D</string>
+    <string name="aspect_ratio_16X9">разрешение 16:9</string>
+    <string name="aspect_ratio_4X3">разрешение 4:3</string>
+    <string name="aspect_ratio_default">разрешение по умолчанию</string>
+    <string name="can_not_open_dual">в режиме 3D нельзя включить двойной режим</string>
+    <string name="can_not_open_3D">в двойном режиме нельзя включить 3D режим</string>
+    <string name="video_start_time">время начала воспроизведения видео</string>
+    <string name="video_buffer_time">время буферизации :</string>
+    <string name="video_first_video_frame_time">время появления первого кадра :</string>
+    <string name="video_breakpoint_play">соединить с предыдущим？</string>
+    <string name="video_breakpoint">точка остановки воспроизведения</string>
+    <string name="can_not_open_dual_pip">в режиме PIP/POP/DUALVIEW нельзя включить двойной анализ</string>
+    <string name="can_not_open_dual_4kVideo">в режиме 4k1k/4k2k нельзя включить двойной анализ</string>
+    <string name="app_name">местный пллерv2.0</string>
+    <string name="test_str">cao ni ma de dan</string>
+    <string name="default_time">00:00:00</string>
+    <string name="iso_file_cant_play">ISO документ не передан</string>
+    <string name="setting_three_d">3D установка</string>
+    <string name="setting">установка</string>
+    <string name="exit_ok">определение</string>
+    <string name="exit_cancel">снятие</string>
+    <string name="choose_time_failed">нельзя точно локализовать данную видеочастоту!!</string>
+    <string name="setting_subtitle">титр</string>
+    <string name="setting_picture_mode">модель изображения</string>
+    <string name="setting_voice">звуковой эффект</string>
+    <string name="setting_audio_track">звуковой порядок</string>
+    <string name="ok">определение</string>
+    <string name="cancel">снятие</string>
+    <string name="play_list">запись передачи</string>
+    <string name="time_delay">выдержка времени</string>
+    <string name="millseconds">MS</string>
+    <string name="no_subtitle">нет титра</string>
+    <string name="audio_trace_promote">"звуковой порядок "</string>
+    <string name="inner_subtitle_promote">титр внетреннего зацепления</string>
+    <string name="today">сегодня</string>
+    <string name="days_ago">день назад</string>
+    <string name="exit_player">Выйти ли из местного плеера?</string>
+    <string name="b_promote">напоминание</string>
+    <string name="delete_all">удалить запись смотрения</string>
+    <string name="control_prompt">Установить передачу через кнопку меню. Регулировать темп передачи через боковую кнопку.
+        Восходящая кнопка вызывает запись передачи
+    </string>
+    <string name="setting_play_mode">Модель передачи</string>
+    <string name="delete_all_success">Удачно удалить все записи</string>
+    <string name="warning">Предупреждение</string>
+    <string name="firm_delete_all_record">Удалить ли все записи передачи?</string>
+    <string name="delete_success">Удачно удалить</string>
+    <string name="delete_current_record">Удалить ли данную запись передачи?</string>
+    <string name="no_record">нет записи передачи</string>
+    <string name="delay">выдержка времени</string>
+    <string name="setting_picture_mode1">модель изображения</string>
+    <string name="setting_imageMode_luminance">яркость</string>
+    <string name="setting_imageMode_contrast">контрастность</string>
+    <string name="setting_imageMode_chroma">насыщенность цвета</string>
+    <string name="setting_imageMode_sharpness">резкость</string>
+    <string name="setting_imageMode_denoise">3D снижение шумности</string>
+    <string name="some_promote">напоминание</string>
+    <string name="self_define">самоопределение</string>
+    <string name="close">выключить</string>
+    <string name="open">включить</string>
+    <string name="setting_picture_zoom">соотношение</string>
+    <string name="ppt_play">Слайд-шоу</string>
+    <string name="replace_speed">Скорость переключения</string>
+    <string name="slow">Низкая</string>
+    <string name="middle">в</string>
+    <string name="fast">быстро</string>
+    <string name="no_picture">нет файла изображения</string>
+    <string name="file_not_exit_chk_network">Файл не существует, проверьте сеть</string>
+
+    <string name="match_subtitle">Сейчас  интеллигентно показывает субтитр . </string>
+    <string name="failedsubtitle">Не удалось субтитры</string>
+    <string name="loaddowning">Субтитры получают удачу ,сейчас скачать...</string>
+    <string name="choicesubtitle">Уже выполнил скачать субтитры ,и выбран первый ,пожалуйста выберите другие субтитры в меню </string>
+    <string name="onechoicesubtitle">Уже выполнил скачать субтитры </string>
+	
+	<!--H1翻译添加-->
+	<string name="no_video_track">Нет саундтрека</string>
+    <string name="audio_codec">Аудио кодек:</string>
+    <string name="video_codec">Видео кодек:</string>
+    <string name="duration">Продолжительность:</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="choose_time_0">0</string>
+    <string name="choose_time_colon">:</string>
+    <string name="programe_info">Инфо видео</string>
+    <string name="show_info">Ошибка воспроизведения </string>
+    <string name="buffering">Буферизация видео, подождите, пожалуйста.</string>
+    <string name="playing">Воспроизведение</string>
+    <string name="video_subtitle">Субтитры</string>
+    <string name="video_track">Саундтрек</string>
+    <string name="video_thumbnail_mode">Режим Thumbnail</string>
+    <string name="video_rotate_mode">Режим Rotate</string>
+    <string name="video_channel">Звуковой тракт</string>
+    <string name="video_media_full_resize">Полный экран по растяжению</string>
+    <string name="video_media_play_next">Воспроизвести следующее видео?</string>
+    <string name="video_media_default">Разрешение видео по умолчанию</string>
+    <string name="video_media_full">Пропорциональный полный экран</string>
+    <string name="video_audio_track_switch_info">Не следует часто переключать саундтреки!</string>
+    <string name="video_thumbnail_switch_info">Не следует часто переключать выключатель режима Thumbnail!</string>
+    <string name="video_no_support_two_4k">Не поддерживается одновременное воспроизведение двух 4k-видео.</string>
+    <string name="video_no_support_seamless_dualscreen">Не поддерживается воспроизведение без пауз в двухэкранном режиме.</string>
+    <string name="video_iso_tip">Не поддерживается ISO-файл</string>
+    <string name="open_file_fail">Невозможно открыть файл!</string>
+    <string name="audio_track_codec">Кодек саундтрека</string>
+    <string name="audio_track_channel">Звуковой тракт саундтрека</string>
+    <string name="audio_track_name">Название саундтрека</string>
+    <string name="can_not_open_dual_HEVC_Video">При режиме H.265/HEVC невозможно открыть двойную расшифровку</string>
+    <string name="can_not_open_dual_Thumbnail_Video">При режиме Thumbnail невозможно открыть двойную расшифровку</string>
+    <string name="can_not_open_dual_this_platform">Данная платформа не поддерживает двойную расшифровку</string>
+    <string name="can_not_open_thumbnail_dual_Video">При режиме двойной расшифровки невозможно открыть Thumbnail</string>
+    <string name="can_not_open_thumbnail_4kVideo">Невозможно открыть Thumbnail при режиме 4k1k/4k2k</string>
+    <string name="can_not_open_thumbnail_3DMode">Невозможно открыть Thumbnail при 3D-режиме</string>
+    <string name="can_not_open_thumbnail_this_platform">Данная платформа не поддерживает функцию Thumbnail</string>
+    <string name="can_not_open_dual_rotate_mode">При режиме Rotate невозможно открыть двойную расшифровку</string>
+    <string name="can_not_open_rotate_dual_mode">Невозможно включить функцию вращения при режиме DualView</string>
+    <string name="can_not_open_rotate">Данная платформа не поддерживает функцию вращения</string>
+    <string name="can_not_support_aspect_ratio">Нынешнее видео не поддерживает пропорциональный режим</string>
+    <string name="subtitle_0_value_1">Отобразить внешние субтитры</string>
+    <string name="subtitle_0_value_2">Отобразить внутренние субтитры</string>
+    <string name="subtitle_1_value_1">Щелкнуть и выбрать путь</string>
+    <string name="subtitle_1_value_2">Нет внешних субтитров</string>
+    <string name="subtitle_2_value_1">Нет</string>
+    <string name="subtitle_2_value_2">Субтитры</string>
+    <string name="subtitle_3_value_1">Неизвестно</string>
+    <string name="subtitle_3_value_2">Нет</string>
+    <string name="subtitle_4_value_1">По умолчанию</string>
+    <string name="subtitle_4_value_2">Рубленый шрифт</string>
+    <string name="subtitle_4_value_3">Моноширинный</string>
+    <string name="subtitle_5_value_1">Большой</string>
+    <string name="subtitle_5_value_2">Средний</string>
+    <string name="subtitle_5_value_3">Маленький</string>
+    <string name="subtitle_6_value_1">Белый</string>
+    <string name="subtitle_6_value_2">Черный</string>
+    <string name="subtitle_6_value_3">Синий</string>
+    <string name="subtitle_7_value_1">Нет</string>
+    <string name="subtitle_7_value_2">Да</string>
+    <string name="subtitle_8_value_1">Дно видео изображения</string>
+    <string name="subtitle_8_value_2">Вершина видео изображения</string>
+    <string name="subtitle_9_value">0</string>
+
+    <string-array name="subtitle_setting_opt">
+        <item>Отобразить внешние субтитры</item>
+        <item>Щелкнуть и выбрать путь</item>
+        <item>Нет</item>
+        <item>Неизвестно</item>
+        <item>По умолчанию</item>
+        <item>Средний</item>
+        <item>Белый</item>
+        <item>Нет</item>
+        <item>Дно видео изображения</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="subtitle_change_msg">Вы выбрали внешние субтитры, только внутренние субтитры имеют порядочный номер!</string>
+    <string name="subtitle_change_path">Вы выбрали внутренние субтитры, возможно выбрать путь только для внешних субтитров!</string>
+    <string name="choose_time_invalid">Вы установили незаконное время, исправьте, пожалуйста!</string>
+    <string name="subtitle_change_invalid">Субтитры изображения не поддерживают данную операцию!</string>
+    <string name="external_subtitle_setting_operation_invalid">Данная операция не поддерживается! Победитесь, что установили путь для внешних субтитров!</string>
+
+    <string-array name="play_setting_opt">
+        <item>Включить</item>
+        <item>Выключить</item>
+        <item>Включить</item>
+        <item>Выключить</item>
+        <item>Выключить</item>
+        <item></item>
+    </string-array>
+
+	<string name="play_setting_0_value_1">Включить</string>
+	<string name="play_setting_0_value_2">Выключить</string>
+	<string name="video_size_unknown">Неизвестно</string>
+
+    <string-array name="audio_track_setting_opt">
+        <item>Саундтрек 1</item>
+        <item>1</item>
+        <item>00:00:00</item>
+        <item>Неизвестно</item>
+        <item>Неизвестно</item>
+        <item>Неизвестно</item>
+        <item>Неизвестно</item>
+    </string-array>
+
+	<string name="audio_track_setting_0_value_1">Саундтрек</string>
+	<string name="subtitle_setting_0_value_1">Внутренние</string>
+	<string name="subtitle_setting_0_value_2">Внешние</string>
+	<string name="matching_subtitle">Автоматический подбор субтитров</string>
+	<string name="subtitlelocation">Место размещения субтитров</string>
+	<string name="loading">Загружается...</string>
+	<string name="pptplay_anim">Слайд</string>
+	<string name="video_not_exit">Не существует видео</string>
+	<string name="ppt_pause_promote">Приостановлен слайд-шоу, нажмите кнопку OK чтобы продолжать</string>
+	<string name="ppt_start_promote">Слайд-шоу начался, нажмите кнопку OK чтобы приостановить</string>
+	<string name="temp_color">Farbtemperatur</string>
+	<string name="setasdfasdf">Настроить как обои</string>
+	<string name="defaut_time1">-00:00:00</string>
+	<string name="color_temp">Цветовая температура</string>
+	<string name="red">Красный</string>
+	<string name="green">Зеленый</string>
+	<string name="blue">Синий</string>
+	<string name="hrs">В виртуальном окружении</string>
+	
+	
+</resources>

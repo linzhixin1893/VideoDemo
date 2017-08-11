@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video_media_error_unknown">未知错误</string>
+    <string name="video_media_error_malformed">其它异常错误</string>
+    <string name="video_media_error_io">IO 读写错误</string>
+    <string name="video_media_error_unsupported">系统不支持错误</string>
+    <string name="video_media_error_format_unsupport">格式不支持</string>
+    <string name="video_media_error_not_connected">数据连接错误</string>
+    <string name="video_media_error_audio_unsupport">音频格式不支持</string>
+    <string name="video_media_error_video_unsupport">视频格式不支持</string>
+    <string name="video_media_error_no_license">播放的数据没有授权许可</string>
+    <string name="video_media_error_license_expired">授权许可过期</string>
+    <string name="video_media_other_error_unknown">其它未知错误</string>
+    <string name="video_media_error_not_valid">不是有效的连续视频序列</string>
+    <string name="video_media_error_server_died">媒体播放器服务端卡死</string>
+    <string name="video_media_infor_no_index">视频文件没有索引,无法定位开始位置或快退</string>
+    <string name="video_media_infor_no_index_ab">视频文件没有索引,无法设置AB复播</string>
+    <string name="video_media_do_forward_info">请不要太频繁按快进，间隔时间应大于600毫秒</string>
+    <string name="subtitle_type">显示字幕类别</string>
+    <string name="subtitle_out_path">外接字幕路径</string>
+    <string name="subtitle_in_no">内接字幕编号</string>
+    <string name="subtitle_language">字幕语言</string>
+    <string name="subtitle_color">文本字幕颜色</string>
+    <string name="subtitle_font">文本字幕字体</string>
+    <string name="subtitle_font_size">文本字幕大小</string>
+    <string name="subtitle_frame">文本字幕阴影</string>
+    <string name="subtitle_area">文本字幕位置</string>
+    <string name="subtitle_adjust">字幕时间轴调整</string>
+    <string name="subtitleList">字幕列表</string>
+    <string name="playList">播放列表</string>
+    <string name="subtitle_setting">字幕设置</string>
+    <string name="a_b_section_repeat">A-B 区段重复</string>
+    <string name="section_replay">区段重复播放</string>
+    <string name="set_begin_a">设置起始点 A</string>
+    <string name="set_begin_b">设置起始点 B</string>
+    <string name="audio_track_count">音轨个数</string>
+    <string name="audio_track_number">设置音轨编号</string>
+    <string name="audio_track_duration">音轨总时长</string>
+    <string name="audio_track_language">音轨语言</string>
+    <string name="audio_track_setting">音轨设置</string>
+    <string name="point_a">A点的位置</string>
+    <string name="point_b">B点的位置</string>
+    <string name="one_times_speed">1倍速</string>
+    <string name="x_times_speed">倍速</string>
+    <string name="playing_settings">播放设置</string>
+    <string name="open_ab_repeat">使用AB播放必须先打开此功能</string>
+    <string name="set_point_a_first">设置B点位置之前必须先设置A点位置</string>
+    <string name="video_three_d_setting">3D设置</string>
+    <string name="video_3D_none">关闭</string>
+    <string name="video_3D_side_by_side">左右</string>
+    <string name="video_3D_top_bottom">上下</string>
+    <string name="video_3D_frame_packing">双高清</string>
+    <string name="video_3D_line_alternative">行交织</string>
+    <string name="video_3D_2dto3d">2D转3D</string>
+    <string name="video_3D_auto">自动</string>
+    <string name="video_3D_check_board">棋盘格</string>
+    <string name="video_3D_pixel_alternative">列交错</string>
+    <string name="video_3D_frame_alternative">帧交替</string>
+    <string name="video_3D_count">COUNT</string>
+    <string name="video_3D_switch_info">请不要太频繁切换3D开关</string>
+    <string name="aspect_ratio_16X9">16:9的分辨率</string>
+    <string name="aspect_ratio_4X3">4:3的分辨率</string>
+    <string name="aspect_ratio_default">默认为自动的分辨率</string>
+    <string name="can_not_open_dual">3D模式下不能打开双解</string>
+    <string name="can_not_open_3D">双解模式下不能打开3D</string>
+    <string name="video_start_time">视频起播时间</string>
+    <string name="video_buffer_time">缓冲时间 :</string>
+    <string name="video_first_video_frame_time">出第一帧画面时间 :</string>
+    <string name="video_breakpoint_play">是否接着前次播放？</string>
+    <string name="video_breakpoint">断点播放</string>
+    <string name="can_not_open_dual_pip">PIP/POP/DUALVIEW模式下不能打开双解</string>
+    <string name="can_not_open_dual_4kVideo">4k1k/4k2k模式下不能打开双解</string>
+
+    <string name="app_name">本地播放器v2.0</string>
+    <string name="test_str">cao ni ma de dan</string>
+    <string name="default_time">00:00:00</string>
+    <string name="iso_file_cant_play">ISO文件不可播放</string>
+    <string name="setting_three_d">3D设置</string>
+    <string name="setting">设置</string>
+    <string name="exit_ok">确定</string>
+    <string name="exit_cancel">取消</string>
+    <string name="choose_time_failed">该视频不能精确定位!!</string>
+    <string name="setting_subtitle">字幕</string>
+    <string name="setting_picture_mode">图像模式</string>
+    <string name="setting_voice">音效</string>
+    <string name="setting_audio_track">音轨</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="play_list">播放记录</string>
+    <string name="time_delay">延时</string>
+    <string name="millseconds">MS</string>
+    <string name="no_subtitle">无字幕</string>
+    <string name="audio_trace_promote">"音轨 "</string>
+    <string name="inner_subtitle_promote">内接字幕</string>
+    <string name="today">今天</string>
+    <string name="days_ago">天前</string>
+    <string name="exit_player">确认退出本地播放器？</string>
+    <string name="b_promote">提示</string>
+    <string name="delete_all">清除观看记录</string>
+    <string name="control_prompt">菜单键进行播放设置。左右键进行播放进度调整。上键唤出播放列表</string>
+    <string name="setting_play_mode">播放模式</string>
+    <string name="delete_all_success">删除所有记录成功</string>
+    <string name="warning">警告</string>
+    <string name="firm_delete_all_record">是否删除所有播放记录？</string>
+    <string name="delete_success">删除成功</string>
+    <string name="delete_current_record">是否删除该条播放记录？</string>
+    <string name="no_record">没有播放记录</string>
+    <string name="delay">延时</string>
+
+
+    <string name="setting_picture_mode1">图像模式</string>
+    <string name="setting_imageMode_luminance">亮度</string>
+    <string name="setting_imageMode_contrast">对比度</string>
+    <string name="setting_imageMode_chroma">色饱和度</string>
+    <string name="setting_imageMode_sharpness">锐度</string>
+    <string name="setting_imageMode_denoise">3D降噪</string>
+
+    <string name="some_promote">提示</string>
+    <string name="self_define">自定义</string>
+    <string name="close">关</string>
+    <string name="open">开</string>
+    
+    <!-- z5运动补偿 -->
+    <string name="z5_low">弱</string>
+    <string name="z5_mid">中</string>
+    <string name="z5_high">强</string>
+
+    <string name="setting_picture_zoom">画面比例</string>
+    <string name="ppt_play">幻灯片播放</string>
+    <string name="replace_speed">切换速度</string>
+    <string name="slow">慢</string>
+    <string name="middle">中</string>
+    <string name="fast">快</string>
+    <string name="no_picture">没有图像文件</string>
+    <string name="file_not_exit_chk_network">文件不存在，请检查网络</string>
+    <string name="video_not_exit">视频文件不存在</string>
+
+    <!-- 视频播放模块资源定义区 -->
+    <string name="no_video_track">无音轨</string>
+    <string name="audio_codec">音频编码:</string>
+    <string name="video_codec">视频编码:</string>
+    <string name="duration">时    长:</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="choose_time_0">0</string>
+    <string name="choose_time_colon">:</string>
+    <string name="programe_info">视频信息</string>
+    <string name="show_info">播放错误 </string>
+    <string name="buffering">此视频正在缓冲，请等待。。。</string>
+    <string name="playing">正在播放</string>
+    <string name="video_subtitle">字幕</string>
+    <string name="video_track">音轨</string>
+    <string name="video_thumbnail_mode">Thumbnail模式</string>
+    <string name="video_rotate_mode">Rotate模式</string>
+    <string name="video_channel">声道</string>
+    <string name="video_media_full_resize">视频拉伸全屏</string>
+    <string name="video_media_play_next">继续播放下一个视频？</string>
+    <string name="video_media_default">视频默认分辨率</string>
+    <string name="video_media_full">视频等比例全屏</string>
+    <string name="video_audio_track_switch_info">请不要太频繁切换音轨!</string>
+    <string name="video_thumbnail_switch_info">请不要太频繁切换thumbnail模式开关!</string>
+    <string name="video_no_support_two_4k">不支持两个4k video同时播放.</string>
+    <string name="video_no_support_seamless_dualscreen">不支持在双屏模式下进行无缝播放!</string>
+    <string name="video_iso_tip">ISO文件不支持</string>
+    <string name="open_file_fail">无法打开此文件! </string>
+    <string name="audio_track_codec">音轨编码</string>
+    <string name="audio_track_channel">音轨声道</string>
+    <string name="audio_track_name">音轨名称</string>
+    <string name="can_not_open_dual_HEVC_Video">H.265/HEVC模式下不能打开双解</string>
+    <string name="can_not_open_dual_Thumbnail_Video">Thumbnail模式下不能打开双解</string>
+    <string name="can_not_open_dual_this_platform">该平台不支持双解</string>
+    <string name="can_not_open_thumbnail_dual_Video">双解模式下不能打开Thumbnail</string>
+    <string name="can_not_open_thumbnail_4kVideo">4k1k/4k2k模式下不能打开Thumbnail</string>
+    <string name="can_not_open_thumbnail_3DMode">3D模式下不能打开Thumbnail</string>
+    <string name="can_not_open_thumbnail_this_platform">该平台不支持thumbnail功能</string>
+    <string name="can_not_open_dual_rotate_mode">Rotate模式下不能打开双解</string>
+    <string name="can_not_open_rotate_dual_mode">Dual View模式下不能打开旋转功能</string>
+    <string name="can_not_open_rotate">该平台不支持旋转功能</string>
+    <string name="can_not_support_aspect_ratio">当前视频不支持比例模式</string>
+
+    <!-- "显示外接字幕", "点击选择路径", "无", "未知", "宋体", "中", "白色", "否", "视频画面底部", "0" -->
+    <string name="subtitle_0_value_1">显示外接字幕</string>
+    <string name="subtitle_0_value_2">显示内接字幕</string>
+    <string name="subtitle_1_value_1">点击选择路径</string>
+    <string name="subtitle_1_value_2">无外接字幕</string>
+    <string name="subtitle_2_value_1">无</string>
+    <string name="subtitle_2_value_2">字幕</string>
+    <string name="subtitle_3_value_1">未知</string>
+    <string name="subtitle_3_value_2">无</string>
+    <string name="subtitle_4_value_1">默认</string>
+    <string name="subtitle_4_value_2">无衬线</string>
+    <string name="subtitle_4_value_3">单间隔</string>
+    <string name="subtitle_5_value_1">大</string>
+    <string name="subtitle_5_value_2">中</string>
+    <string name="subtitle_5_value_3">小</string>
+    <string name="subtitle_6_value_1">白色</string>
+    <string name="subtitle_6_value_2">黑色</string>
+    <string name="subtitle_6_value_3">蓝色</string>
+    <string name="subtitle_7_value_1">否</string>
+    <string name="subtitle_7_value_2">是</string>
+    <string name="subtitle_8_value_1">视频画面底部</string>
+    <string name="subtitle_8_value_2">视频画面顶部</string>
+    <string name="subtitle_9_value">0</string>
+
+    <string-array name="subtitle_setting_opt">
+        <item>显示外接字幕</item>
+        <item>点击选择路径</item>
+        <item>无</item>
+        <item>未知</item>
+        <item>默认</item>
+        <item>中</item>
+        <item>白色</item>
+        <item>否</item>
+        <item>视频画面底部</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="subtitle_change_msg">您所选的是外接字幕,只有内接字幕才有字幕编号!</string>
+    <string name="subtitle_change_path">您所选的是内接字幕,只有外接字幕才可以选择路径!</string>
+    <string name="choose_time_invalid">您设定的时间不合法,请重试!</string>
+    <string name="subtitle_change_invalid">图像字幕不支持该操作!</string>
+    <string name="external_subtitle_setting_operation_invalid">不支持该操作！请检查是否设置外接字幕路径了！</string>
+
+    <string-array name="play_setting_opt">
+        <item>开</item>
+        <item>关</item>
+        <item>开</item>
+        <item>关</item>
+        <item>关</item>
+        <item></item>
+    </string-array>
+
+    <string name="play_setting_0_value_1">开</string>
+    <string name="play_setting_0_value_2">关</string>
+    <string name="video_size_unknown">未知</string>
+
+    <string-array name="audio_track_setting_opt">
+        <item>音轨1</item>
+        <item>1</item>
+        <item>00:00:00</item>
+        <item>未知</item>
+        <item>未知</item>
+        <item>未知</item>
+        <item>未知</item>
+    </string-array>
+
+    <string name="audio_track_setting_0_value_1">音轨</string>
+    <string name="subtitle_setting_0_value_1">内接</string>
+    <string name="subtitle_setting_0_value_2">外接</string>
+	<string name="nature">自然</string>
+    <string name="ppt_pause_promote">幻灯片已暂停,按OK键继续</string>
+    <string name="ppt_start_promote">幻灯片播放已开始,按OK键暂停</string>
+    <string name="temp_color">色温</string>
+    <string name="setasdfasdf">设置为壁纸</string>
+    <string name="defaut_time1">-00:00:00</string>
+    <string name="color_temp">色温</string>
+    <string name="red">红</string>
+    <string name="green">绿</string>
+    <string name="blue">蓝</string>
+    <string name="hrs">虚拟环绕</string>
+    <string name="z5_run_com">运动补偿</string>
+    <string name="matching_subtitle">智能匹配字幕</string>
+    <string name="match_subtitle">正在智能匹配字幕</string>
+    <string name="failedsubtitle">匹配字幕失败</string>
+    <string name="loaddowning">匹配字幕成功,正在下载字幕...</string>
+    <string name="choicesubtitle">字幕下载完成，已选择第一个，请在菜单中选择其他字幕</string>
+    <string name="onechoicesubtitle">字幕下载完成</string>
+    <string name="subtitlelocation">字幕位置</string>
+    <string name="loading">加载中...</string>
+    <string name="pptplay_anim">幻灯片动画</string>
+     <string name="autodownload">自动下载</string>
+    <string name="savetolocal">存至本地</string>
+    <string name="left_to_right">3D左右交换</string>
+    <string name="set_background_success">设置壁纸成功</string>
+    <string name="set_netpicture_false">暂不支持网络图片设置为壁纸</string>
+    <string name="list">列表</string>
+    <string name="single">单部</string>
+        <string name="high_setting">高级设置</string>
+</resources>

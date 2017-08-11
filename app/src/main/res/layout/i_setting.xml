@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingTop="100dp"
+        android:background="@drawable/bg_player_setting_bg"
+        android:paddingLeft="32dp"
+        android:gravity="center|left"
+        android:visibility="visible"
+        android:id="@+id/setting_llyt"
+        android:orientation="vertical">
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:focusable="false"
+              android:focusableInTouchMode="false"
+              android:text="@string/setting"
+              android:gravity="center"
+              android:textColor="@color/white"
+              android:layout_marginBottom="26dp"
+              android:textSize="@dimen/setting_title_size"
+            />
+
+    <FrameLayout android:layout_width="wrap_content"
+                 android:gravity="center"
+                 android:layout_height="330dp">
+
+
+        <ListView
+                android:layout_width="200dp"
+                android:layout_height="250dp"
+                android:smoothScrollbar="false"
+                android:nextFocusDown="@+id/settings_lv"
+                android:nextFocusUp="@+id/settings_lv"
+                android:fadingEdge="vertical"
+                android:scrollbars="none"
+                android:cacheColorHint="@color/trans_color1"
+                android:fadingEdgeLength="80dp"
+                android:listSelector="@drawable/setting_selector"
+                android:requiresFadingEdge="vertical"
+                android:id="@+id/settings_lv"/>
+
+        <LinearLayout android:layout_width="330dp"
+                      android:orientation="vertical"
+                      android:gravity="center|left"
+                      android:id="@+id/choice_llyt"
+                      android:visibility="visible"
+                      android:layout_height="300dp">
+
+            <ListView
+                    android:id="@+id/choice_lv"
+                    android:scrollbars="none"
+                    android:layout_marginLeft="70dp"
+                    android:listSelector="@drawable/setting_selector"
+                    android:visibility="visible"
+                    android:nextFocusDown="@+id/modifyTime"
+                    android:nextFocusUp="@+id/modifyTime"
+                    android:fadingEdge="vertical"
+                    android:transcriptMode="alwaysScroll"
+                    android:divider="@color/trans_color1"
+                    android:cacheColorHint="@color/trans_color1"
+                    android:fadingEdgeLength="60dp"
+                    android:requiresFadingEdge="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1">
+
+            </ListView>
+
+            <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:gravity="top">
+
+                <include
+                        layout="@layout/i_subtitle_sync"/>
+            </LinearLayout>
+            <!-- <Button
+                     android:id="@+id/modifyTime"
+                     android:visibility="visible"
+                     android:nextFocusDown="@+id/choice_lv"
+                     android:nextFocusUp="@+id/choice_lv"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="@string/add"
+                     />-->
+
+        </LinearLayout>
+
+    </FrameLayout>
+</LinearLayout>

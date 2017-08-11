@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="horizontal"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:clickable="false"
+                android:layout_margin="3dp"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+    <ImageView
+            android:id="@+id/poster_iv"
+            android:layout_width="112dp"
+            android:layout_height="160dp"
+            android:scaleType="centerCrop"
+            tools:background="@drawable/ic_movie_default"
+            android:focusable="false"
+            android:gravity="center"
+            android:focusableInTouchMode="false"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentStart="true"/>
+
+
+    <ProgressBar
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_width="112dp"
+            android:id="@+id/play_progress"
+            android:layout_height="wrap_content"
+            style="@style/progress_style"
+            android:progress="40"
+            android:indeterminate="false"
+            android:layout_alignBottom="@+id/progress_tv"
+            android:layout_alignParentStart="true"/>
+
+
+    <TextView android:layout_height="wrap_content"
+              android:textColor="@color/white"
+              android:focusable="false"
+              android:lines="3"
+              android:gravity="bottom|center"
+              android:focusableInTouchMode="false"
+              android:layout_width="112dp"
+              android:ellipsize="end"
+              android:textSize="18sp"
+              android:id="@+id/name_tv"
+              android:text="@string/add"
+              android:layout_above="@+id/play_progress"
+              android:layout_alignParentStart="true"
+              android:layout_alignEnd="@+id/poster_iv"/>
+
+    <TextView
+            android:layout_width="112dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:text="@string/add"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:id="@+id/progress_tv"
+            android:layout_alignBottom="@+id/poster_iv"
+            android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>

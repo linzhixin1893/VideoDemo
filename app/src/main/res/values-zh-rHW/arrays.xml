@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="picture_mode">
+        <item>明亮</item>
+        <item>標準</item>
+        <item>柔和</item>
+        <item>@string/nature</item>
+        <item>@string/self_define</item>
+    </string-array>
+
+    <string-array name="voice_mode">
+        <item>標準</item>
+        <item>音樂</item>
+        <item>影院</item>
+        <item>新聞</item>
+        <item>戶外</item>
+    </string-array>
+
+    <string-array name="imageMode_denoise">
+        <item>關</item>
+        <item>開</item>
+    </string-array>
+    <string-array name="zoom_mode">
+        <item>原始比例</item>
+        <item>16:9</item>
+        <item>16:10</item>
+        <item>4:3</item>
+        <item>留字幕</item>
+        <item>去黑邊</item>
+        <item>點對點</item>
+    </string-array>
+
+    <string-array name="three_d_mode">
+        <item>關</item>
+        <item>自動</item>
+        <item>上下</item>
+        <item>左右</item>
+        <item>藍光</item>
+        <item>3D轉2D(上下)</item>
+        <item>3D轉2D(左右)</item>
+        <item>2D轉3D</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>自動循環</item>
+        <item>單曲循環</item>
+    </string-array>
+	<string-array name="setting_name">
+        <item>自動循環</item>
+        <item>單曲循環</item>
+    </string-array>
+</resources>

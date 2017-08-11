@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="seek_1">#ff474747</color>
+    <color name="seek_2" tools:ignore="UnusedResources">#9901ff62</color>
+    <color name="seek_3">#ff01ff62</color>
+    <color name="play_text_color">#80ffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="dlg_color2">#ff474747</color>
+    <color name="trans_color">#00ffffff</color>
+    <color name="trans_color1">#00000000</color>
+
+    <color name="dark_bg">#8000</color>
+    <color name="popup_left_bg">#eee</color>
+    <color name="popup_right_bg">#ddd</color>
+    <color name="popup_right_bg_selected">#ccc</color>
+    <color name="div_gray">#ccc</color>
+
+    <color name="trans">#00000000</color>
+    <color name="trans_black">#1f000000</color>
+    <color name="green">#FF00FF00</color>
+</resources>
